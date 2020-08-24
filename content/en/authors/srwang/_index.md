@@ -1,16 +1,17 @@
 ---
 # Display name
-title: Hu-Group
+title: Shaoru Wang
+weight: 10
 
 # Username (this should match the folder name)
 authors:
-- admin
+- srwang
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: 
+role: 3nd year Ph.D.
 
 # Organizations/Affiliations
 organizations:
@@ -64,14 +65,9 @@ bio:
 email: ""
 
 # Link to the homepage of the author
-link: ""  # set link: "/author/user-name/" for the author without homepage
+link: "/author/shaoru-wang/"  # set link: "/author/user-name/" for the author without homepage
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- admin
+user_groups: ["Grad Students"]
 ---
-Hu-Group is affiliated to the National Laboratory of Pattern Recognition and the Institute of Automation, Chinese Academy of Sciences. The director of Hu-Group is Prof. Weiming Hu. The main research interests of Hu-Group include object detection, visual tracking and action recognition.  
-Currently the group has XXX faculty members including one NSFC Distinguished Youth Fund awardee and over XXX researchers including post-doctoral research fellows, PhD and MSc students and intern students.  
-The group members have published over XXX journal and conference papers, and has won prestigious international awards including XXX.  
-Contact us @XXX.

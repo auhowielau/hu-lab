@@ -17,8 +17,6 @@ title = "News"
   color = "white"
 
 +++
-- Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter.
-- Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter.
-- Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter.
-- News
-- News
+- 08/24/20: [Homepage](https://hu-lab.netlify.app) online!
+- 06/24/20: We have N papers accepted to ECCV'20!
+

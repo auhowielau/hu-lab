@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: 视频内容安全团队
 
 # Username (this should match the folder name)
 authors:
@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: 
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: 中国科学院自动化所
+  url: "http://www.ia.ac.cn/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 
 
 # interests:
 # - Artificial Intelligence
@@ -64,14 +64,14 @@ bio: My research interests include distributed robotics, mobile computing and pr
 email: ""
 
 # Link to the homepage of the author
-link: "https://baidu.com"  # set link: "" for the author without homepage
+link: ""  # set link: "" for the author without homepage
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Admin
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+视频内容安全团队隶属中国科学院自动化研究所模式识别国家重点实验室，团队负责人是胡卫明研究员。主要研究兴趣包括目标检测、视觉跟踪和行为识别等。  
+团队目前有XXX名固定科研人员，包括国家杰出青年基金获得者1人，北京市杰出青年基金获得者1人，以及博士后、博士研究生、硕士研究生和实习生在内的XXX名科研人员。  
+团队成员共发表XXX篇国内/国际会议及期刊，并获得包括XXX和XXX在内的多项国际知名比赛荣誉。  
+联系方式：XXX。

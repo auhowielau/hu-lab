@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear in.
 
-title = "视频内容安全团队"
+title = "简介"
 
 # Choose the user profile to display
 # This should be the username of a profile in your `content/authors/` folder.

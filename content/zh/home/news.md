@@ -3,7 +3,7 @@ widget = "blank"
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear in.
-title = "News"
+title = "新闻"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -17,6 +17,6 @@ title = "News"
   color = "white"
 
 +++
-- Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter.
-- Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter.
-- Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter.
+- 08/24/20: [团队主页](https://hu-lab.netlify.app)上线！
+- 06/24/20: 团队N篇论文被ECCV'20接收!
+
