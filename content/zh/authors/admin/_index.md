@@ -63,6 +63,9 @@ bio: My research interests include distributed robotics, mobile computing and pr
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
+# Link to the homepage of the author
+link: "https://baidu.com"  # set link: "" for the author without homepage
+
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
