@@ -69,5 +69,5 @@ link: "http://people.ucas.ac.cn/~huweiming?language=en"  # set link: "/author/us
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups: ["教师"]
+user_groups: ["学术带头人"]
 ---

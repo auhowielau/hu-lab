@@ -7,13 +7,14 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 0  # Order that this section will appear.
 
-title = "Meet the Team"
+title = "团队成员"
 subtitle = ""
 
 [content]
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
-  user_groups = ["教师",
+  user_groups = ["学术带头人",
+                 "教师",
                  "研究生",
                  "已毕业学生"]
 
