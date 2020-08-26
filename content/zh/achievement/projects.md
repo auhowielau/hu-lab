@@ -2,8 +2,8 @@
 widget = "blank"
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 30  # Order that this section will appear in.
-title = "新闻"
+weight = 10  # Order that this section will appear in.
+title = "科研项目"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -17,6 +17,5 @@ title = "新闻"
   color = "white"
 
 +++
-- 08/24/20: [团队主页](https://hu-lab.netlify.app)上线！
-- 06/24/20: 团队N篇论文被ECCV'20接收!
-
+- 国家基金
+- 北京市基金
