@@ -2,11 +2,15 @@
 # A Projects section created with the Portfolio widget.
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 10  # Order that this section will appear.
 
 title = "Projects"
 subtitle = ""
+
+[design.spacing]
+  # Customize the section spacing. Order is top, right, bottom, left.
+  padding = ["50px", "200px", "0", "200px"]
 
 [content]
   # Page type to display. E.g. project.
@@ -26,12 +30,16 @@ subtitle = ""
     tag = "*"
   
   [[content.filter_button]]
-    name = "Deep Learning"
-    tag = "Deep Learning"
+    name = "Object Detection"
+    tag = "Object Detection"
   
   [[content.filter_button]]
-    name = "Other"
-    tag = "Demo"
+    name = "Object Tracking"
+    tag = "Object Tracking"
+
+  [[content.filter_button]]
+    name = "Action Recognition"
+    tag = "Action Recognition"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -54,19 +62,19 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
   
   # Background color.
-  # color = "navy"
+  color = "white"
   
   # Background gradient.
   # gradient_start = "DeepSkyBlue"
   # gradient_end = "SkyBlue"
   
   # Background image.
-  # image = "background.jpg"  # Name of image in `static/media/`.
-  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  # image = ""  # Name of image in `static/media/`.
+  # image_darken = 0  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
   # text_color_light = true  
-  
+
 [advanced]
  # Custom CSS. 
  css_style = ""
