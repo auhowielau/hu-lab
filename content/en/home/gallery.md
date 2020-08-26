@@ -11,14 +11,14 @@ interval = 5000
 
 # Slide height (optional).
 # E.g. `500px` for 500 pixels or `calc(100vh - 70px)` for full screen.
-height = "500px"
+height = "250px"
 
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  # title = "Welcome to VCSL"
-  # content = "Video Content Security Lab"
-  # align = "center"  # Choose `center`, `left`, or `right`.
+  title = "Welcome to Hu-Lab"
+  content = "Video Content Security Lab"
+  align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
@@ -35,9 +35,9 @@ height = "500px"
   # cta_icon = "graduation-cap"
 
 [[item]]
-  # title = "Right"
-  # content = "I am right aligned :smile:"
-  # align = "right"
+  title = "Welcome to Hu-Lab"
+  content = "Video Content Security Lab"
+  align = "center"  # Choose `center`, `left`, or `right`.
 
   # overlay_color = "#333"  # An HTML color value.
   overlay_img = "header2.jpg"  # Image path relative to your `static/media/` folder.
