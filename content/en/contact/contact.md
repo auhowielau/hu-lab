@@ -11,7 +11,7 @@ title = "Contact us"
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["40px", "0", "0", "0"]
+  padding = ["40px", "100px", "0", "100px"]
 
 [design.background]
   color = "white"
