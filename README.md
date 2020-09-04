@@ -1,46 +1,89 @@
-<p align="center"><a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener"><img src="https://sourcethemes.com/academic/img/logo_200px.png" alt="Academic logo"></a></p>
+# [VSLab](https://hu-lab.netlify.app/): the homepage of Vision & Security Lab based on [Hugo](https://gohugo.io)
 
-# Academic Kickstart: The Template for [Academic Website Builder](https://sourcethemes.com/academic/)
+## Prerequisites
 
-[**Academic**](https://github.com/gcushen/hugo-academic) makes it easy to create a beautiful website for free using Markdown, Jupyter, or RStudio. Customize anything on your site with widgets, themes, and language packs. [Check out the latest demo](https://academic-demo.netlify.app/) of what you'll get in less than 10 minutes, or [view the showcase](https://sourcethemes.com/academic/#expo).
+* [Download and install Git](https://git-scm.com/downloads)
+* [Download and install Hugo Extended v0.73-v0.74](https://gohugo.io/getting-started/installing/#quick-install)
 
-**Academic Kickstart** provides a minimal template to kickstart your new website.
 
-- 👉 [**Get Started**](#install)
-- 📚 [View the **documentation**](https://sourcethemes.com/academic/docs/)
-- 💬 [Chat with the **Academic community**](https://spectrum.chat/academic) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@source_themes](https://twitter.com/source_themes) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithAcademic](https://twitter.com/search?q=%23MadeWithAcademic&src=typd)
-- 💡 [Request a **feature** or report a **bug**](https://github.com/gcushen/hugo-academic/issues)
-- ⬆️ **Updating?** View the [Update Guide](https://sourcethemes.com/academic/docs/update/) and [Release Notes](https://sourcethemes.com/academic/updates/)
-- :heart: **Support development** of Academic:
-  - ☕️ [**Donate a coffee**](https://paypal.me/cushen)
-  - 💵 [Become a backer on **Patreon** and **unlock rewards**](https://www.patreon.com/cushen)
-  - 🖼️ [Decorate your laptop or journal with an Academic **sticker**](https://www.redbubble.com/people/neutreno/works/34387919-academic)
-  - 👕 [Wear the **T-shirt**](https://academic.threadless.com/)
-  - :woman_technologist: [**Contribute**](https://sourcethemes.com/academic/docs/contribute/)
+## Installation
 
-[![Screenshot](https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png)](https://github.com/gcushen/hugo-academic/)
+First, clone this repository.
 
-## Install
+```
+git clone https://github.com/auhowielau/hu-lab.git
+git submodule update --init --recursive
+```
 
-You can choose from one of the following four methods to install:
+Then, you can choose any editor you like as long as Markdown is supported, such as [Visual Studio](https://code.visualstudio.com/), [Jupyter](https://jupyter.org/install).
 
-* [**one-click install using your web browser (recommended)**](https://sourcethemes.com/academic/docs/install/#install-with-web-browser)
-* [install on your computer using **Git** with the Command Prompt/Terminal app](https://sourcethemes.com/academic/docs/install/#install-with-git)
-* [install on your computer by downloading the **ZIP files**](https://sourcethemes.com/academic/docs/install/#install-with-zip)
-* [install on your computer with **RStudio**](https://sourcethemes.com/academic/docs/install/#install-with-rstudio)
+Now, you can view your site by running the following command. Before that, be sure to naviagte to this folder using the `cd` command.
 
-Then [personalize your new site](https://sourcethemes.com/academic/docs/get-started/).
+```
+hugo server
+```
 
-## Ecosystem
+Hugo then provides you with a link (e.g. http://localhost:1313/) to open in your web browser.
 
-* **[Academic Admin](https://github.com/sourcethemes/academic-admin):** An admin tool to import publications from BibTeX or import assets for an offline site
-* **[Academic Scripts](https://github.com/sourcethemes/academic-scripts):** Scripts to help migrate content to new versions of Academic
+
+## Getting Started
+
+### Create a publication
+ - Option 1:
+
+    **Automactically**
+
+    Open your Terminal or Command Prompt app and install Academic's admin tool:
+    ```
+    pip3 install -U academic
+    ```
+    Use the `cd` command to navigate to this folder in the terminal.
+
+    Then import your publications with:
+    ```
+    academic import --bibtex <path_to_your/publications.bib>
+    ```
+- Option 2:
+
+    **Manually**
+
+    Publications can be manually created using the command:
+    ```
+    hugo new --kind publication publication/<my-publication>
+    ```
+Then, you need to edit the parameters in `content/en/publication/<my-publication/index.md` to include the details of your publication. Detials can be found in [this website](https://wowchemy.com/docs/managing-content/#create-a-publication).
+
+Then, you need to copy this publication to the coresponding folder in `zh`.
+
+```
+cp -r content/en/publication/<my-publication> content/zh/publication/<my-publication>
+```
+
+Now, you need to modify the parameters in `content/zh/publication/<my-publication>/index.md`.
+
+### Create a user
+
+An additional user can be create by the following command:
+
+```
+hugo new --kind authors authors/<name>
+```
+Then edit the newly created file at `content/en/authors/<name>/_index.md`. 
+
+You can also upload a square photo for the user to the new `authors/<name>/` folder and name it `avatar` (in JPEG or PNG format).
+
+You need to also copy this authors' folder to the coresponding folder in `zh`.
+
+```
+cp -r content/en/authors/<name> content/zh/authors/<name>
+```
+
+Now, you need to modify the parameters in `content/zh/authors/<name>/_index.md`.
 
 ## License
 
-Copyright 2017-present [George Cushen](https://georgecushen.com).
+Hugo Copyright 2016-present [George Cushen](https://georgecushen.com).
 
-Released under the [MIT](https://github.com/sourcethemes/academic-kickstart/blob/master/LICENSE.md) license.
+Released under the [MIT](https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md) license.
 
-[![Analytics](https://ga-beacon.appspot.com/UA-78646709-2/academic-kickstart/readme?pixel)](https://github.com/igrigorik/ga-beacon)
+[![Analytics](https://ga-beacon.appspot.com/UA-78646709-2/hugo-academic/readme?pixel)](https://github.com/igrigorik/ga-beacon)

@@ -1,8 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: 'RDSNet: A New Deep Architecture for Reciprocal Object Detection and Instance
-  Segmentation'
+title: 'RDSNet: A New Deep Architecture for Reciprocal Object Detection and Instance Segmentation'
 subtitle: ''
 summary: ''
 authors:
