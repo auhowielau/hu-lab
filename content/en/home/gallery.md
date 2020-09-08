@@ -16,8 +16,8 @@ height = "400px"
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "Welcome to Hu-Lab"
-  content = "Video Content Security Lab"
+  title = "Welcome to **VSLab**"
+  content = "Vision & Security Laboratory"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
@@ -35,8 +35,8 @@ height = "400px"
   # cta_icon = "graduation-cap"
 
 [[item]]
-  title = "Welcome to Hu-Lab"
-  content = "Video Content Security Lab"
+  title = "Welcome to **VSLab**"
+  content = "Vision & Security Laboratory"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # overlay_color = "#333"  # An HTML color value.
