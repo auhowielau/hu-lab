@@ -6,12 +6,12 @@
 [en]
   languageCode = "en-us"
   contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  title = "Hu-Group"
+  title = "VSLab"
 
 # Uncomment the lines below to configure your website in a second language.
 [zh]
  languageCode = "zh-Hans"
  contentDir = "content/zh"
- title = "视频内容安全团队"
+ title = "视频内容安全研究组"
  [zh.params]
-   description = "视频内容安全团队"
+   description = "视频内容安全研究组"
