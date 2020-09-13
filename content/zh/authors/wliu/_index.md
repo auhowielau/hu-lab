@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 博士后
+role: 
 
 # Organizations/Affiliations
 organizations:

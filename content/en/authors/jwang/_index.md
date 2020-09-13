@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Postdoctor
+role: 
 
 # Organizations/Affiliations
 organizations:
