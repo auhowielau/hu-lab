@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Haowei Liu
-weight: 20
+weight: 100
 
 # Username (this should match the folder name)
 authors:
@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 2rd year Ph.D.
+role: 
 
 # Organizations/Affiliations
 organizations:
@@ -65,9 +65,9 @@ bio:
 email: ""
 
 # Link to the homepage of the author
-link: "/author/haowei-liu/"  # set link: "/author/user-name/" for the author without homepage
+link: ""  # set link: "/author/user-name/" for the author without homepage
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups: ["Grad Students"]
+user_groups: ["Ph.D Candidates"]
 ---

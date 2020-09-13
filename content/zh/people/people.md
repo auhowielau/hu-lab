@@ -15,7 +15,9 @@ subtitle = ""
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups = ["学术带头人",
                  "教师",
-                 "研究生",
+                 "博士后",
+                 "博士研究生",
+                 "硕士研究生",
                  "已毕业学生"]
 
 [design]

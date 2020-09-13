@@ -1,7 +1,7 @@
 ---
 # Display name
 title: 刘永成
-weight: 40
+weight: 90
 
 # Username (this should match the folder name)
 authors:

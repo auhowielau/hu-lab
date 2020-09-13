@@ -65,7 +65,7 @@ bio:
 email: ""
 
 # Link to the homepage of the author
-link: ""  # set link: "/author/user-name/" for the author without homepage
+link: "http://www.ia.cas.cn/sourcedb_ia_cas/cn/iaexpert/202006/t20200601_5600611.html"  # set link: "/author/user-name/" for the author without homepage
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
