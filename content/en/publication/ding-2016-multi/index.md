@@ -36,6 +36,7 @@ projects: []
 publishDate: '2020-09-13T18:08:15.855791Z'
 publication_types:
 - 2
-abstract: ''
+abstract: 'In image annotation, one image is often modeled as a bag of regions (“instances”) associated with multiple labels, which is a typical application of multi-instance multi-label learning (MIML). Although lots of research has shown that the interplay embedded among instances and labels can largely boost the image annotation accuracy, most existing MIML methods consider none or partial context cues. In this paper, we propose a novel context-aware MIML model to integrate the instance context and label context into a general framework. Specially, the instance context is constructed with multiple graphs, while the label context is built up through a linear combination of several common latent conceptions that link low level features and high level semantic labels. Comparison with other leading methods on several benchmark datasets in terms of image annotation shows that our proposed method can get better performance than the state-of-the-art approaches.'
 publication: '*IEEE Transactions on Multimedia*'
+url_pdf: http://ir.ia.ac.cn/bitstream/173211/12163/1/Multi-Instance%20Multi-Label%20Learning%20Combining.pdf
 ---

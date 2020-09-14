@@ -34,6 +34,7 @@ projects: []
 publishDate: '2020-09-13T18:08:10.126453Z'
 publication_types:
 - 1
-abstract: ''
+abstract: 'Inspired by the fact that different modalities in videos carry complementary information, we propose a Multimodal Semantic Attention Network(MSAN), which is a new encoder-decoder framework incorporating multimodal semantic attributes for video captioning. In the encoding phase, we detect and generate multimodal semantic attributes by formulating it as a multi-label classification problem. Moreover, we add auxiliary classification loss to our model that can obtain more effective visual features and high-level multimodal semantic attribute distributions for sufficient video encoding. In the decoding phase, we extend each weight matrix of the conventional LSTM to an ensemble of attribute-dependent weight matrices, and employ attention mechanism to pay attention to different attributes at each time of the captioning process. We evaluate algorithm on two popular public benchmarks: MSVD and MSR-VTT, achieving competitive results with current state-of-the-art across six evaluation metrics.'
 publication: '*2019 IEEE International Conference on Multimedia and Expo (ICME)*'
+url_pdf: https://arxiv.org/pdf/1905.02963
 ---

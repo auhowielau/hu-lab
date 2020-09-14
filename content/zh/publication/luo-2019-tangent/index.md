@@ -33,6 +33,7 @@ projects: []
 publishDate: '2020-09-13T18:08:07.317300Z'
 publication_types:
 - 2
-abstract: ''
+abstract: 'In this paper, we address the problem of representing and recognizing human actions from videos on matrix manifolds. For this purpose, we propose a new vector representation method, named tangent Fisher vector, to describe video sequences in the Fisher kernel framework. We first extract dense curved spatio-temporal cuboids from each video sequence. Compared with the traditional 'straight cuboids', the dense curved spatio-temporal cuboids contain much more local motion information. Each cuboid is then described using a linear dynamical system (LDS) to simultaneously capture the local appearance and dynamics. Furthermore, a simple yet efficient algorithm is proposed to learn the LDS parameters and approximate the observability matrix at the same time. Each video sequence is thus represented by a set of LDSs. Considering that each LDS can be viewed as a point in a Grassmann manifold, we propose to learn an intrinsic GMM on the manifold to cluster the LDS points. Finally a tangent Fisher vector is computed by first accumulating all the tangent vectors in each Gaussian component, and then concatenating the normalized results across all the Gaussian components. A kernel is defined to measure the similarity between tangent Fisher vectors for classification and recognition of a video sequence. This approach is evaluated on the state-of-the-art human action benchmark datasets. The recognition performance is competitive when compared with current state-of-the-art results.'
 publication: '*IEEE Transactions on Image Processing*'
+url_pdf: https://eprints.bbk.ac.uk/30050/1/TangentFisherVector.pdf
 ---

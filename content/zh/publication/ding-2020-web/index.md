@@ -37,6 +37,6 @@ projects: []
 publishDate: '2020-09-13T18:08:07.912680Z'
 publication_types:
 - 2
-abstract: ''
+abstract: 'To protect underage people from accessing objectionable videos in the Internet, an effective objectionable video recognition algorithm is necessary for web filtering. Recently, the multi-instance learning has been introduced for objectionable video recognition and achieves impressive results. However, hand-crafted features as well as redundant and noisy frames in objectionable videos become an intractable problem that inevitably degrades the recognition performance. In this paper, we propose a novel representative prototype selection algorithm embedding deep multi-instance representation learning. In the proposed method, an improved convolutional neural network is designed for multimodal multi-instance feature learning and a self-expressive dictionary learning model based on sparse and low rank constraint is designed to select the representative prototypes from each subspace of instances. Then the bag-level feature is constructed via mapping the bag to the selected prototypes. Experiments on three objectionable video sets show the effectiveness of our method for objectionable video recognition.'
 publication: '*IEEE Transactions on Circuits and Systems for Video Technology*'
 ---

@@ -37,6 +37,7 @@ projects: []
 publishDate: '2020-09-13T18:08:08.057294Z'
 publication_types:
 - 2
-abstract: ''
+abstract: 'Recently, graph convolutional networks (GCNs) have achieved state-of-the-art results for skeleton based action recognition by expanding convolutional neural networks (CNNs) to graphs. However, due to the lack of effective feature aggregation method, e.g. max pooling in CNN, existing GCN-based methods only learn local information among adjacent joints and are hard to obtain high-level interaction features, such as interactions between five parts of human body. Moreover, subtle differences of confusing actions often hide in specific channels of key joints’ features, this kind of discriminative information is rarely exploited in previous methods. In this paper, we propose a novel graph convolutional network with structure based graph pooling (SGP) scheme and joint-wise channel attention (JCA) modules. The SGP scheme pools the human skeleton graph according to the prior knowledge of human body’s typology. This pooling scheme not only leads to more global representations but also reduces the amount of parameters and computation cost. The JCA module learns to selectively focus on discriminative joints of skeleton and pays different levels of attention to different channels. This novel attention mechanism enhance the model’s ability to classify confusing actions.  
+We evaluate our SGP scheme and JCA module on three most challenging skeleton based action recognition datasets: NTU-RGB+D, Kinetics-M, and SYSU-3D. Our method outperforms the state-of-art methods on three benchmarks.'
 publication: '*Pattern Recognition*'
 ---

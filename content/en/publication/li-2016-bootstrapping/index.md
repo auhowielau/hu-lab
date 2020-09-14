@@ -33,6 +33,7 @@ projects: []
 publishDate: '2020-09-13T18:08:13.812132Z'
 publication_types:
 - 1
-abstract: ''
+abstract: 'Automatically recognizing pornographic images from the Web is a vital step to purify Internet environment. Inspired by the rapid developments of deep learning models, we present a deep architecture of convolutional neural network (CNN) for high accuracy pornographic image recognition. The proposed architecture is built upon existing CNNs which accepts input images of different sizes and incorporates features from different hierarchy to perform prediction. To effectively train the model, we propose a two-stage training strategy to learn the model parameters from scratch and end-to-end. During the training procedure, we also employ a hard negative sampling strategy to further reduce the false positive rate of the model. Experimental results on a large dataset demonstrate good performance of the proposed model and the effectiveness of our training strategies, with a considerable improvement over some traditional methods using hand-crafted features and deep learning method using mainstream CNN architecture.'
 publication: '*2016 IEEE International Conference on Image Processing (ICIP)*'
+url_pdf: http://ir.ia.ac.cn/bitstream/173211/13481/1/ICIP16BootstappingDeepFeatureHierarchyForPornographicImageRecognition.pdf
 ---

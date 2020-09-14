@@ -34,6 +34,7 @@ projects: []
 publishDate: '2020-09-13T18:08:13.668488Z'
 publication_types:
 - 1
-abstract: ''
+abstract: 'Due to its wide range of applications, matching between two graphs has been extensively studied and remains an active topic. By contrast, it is still under-exploited on how to jointly match multiple graphs, partly due to its intrinsic computational intractability. In this work, we address this challenging problem in a principled way under the rank-1 tensor approximation framework. In particular, we formulate multi-graph matching as a combinational optimization problem with two main ingredients: unary matching over graph vertices and structure matching over graph edges, both of which across multiple graphs. Then we propose an efficient power iteration solution for the resulted NP-hard optimization problem. The proposed algorithm has several advantages: 1) the intrinsic matching consistency across multiple graphs based on the high-order tensor optimization; 2) the free employment of powerful high-order node affinity; 3) the flexible integration between various types of node affinities and edge/hyper-edge affinities. Experiments on diverse and challenging datasets validate the effectiveness of the proposed approach in comparison with state-of-the-arts.'
 publication: '*Proceedings of the IEEE conference on computer vision and pattern recognition*'
+url_pdf: http://openaccess.thecvf.com/content_cvpr_2016/papers/Shi_Tensor_Power_Iteration_CVPR_2016_paper.pdf
 ---

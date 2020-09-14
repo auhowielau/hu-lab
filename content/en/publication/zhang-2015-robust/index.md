@@ -34,6 +34,7 @@ projects: []
 publishDate: '2020-09-13T18:08:16.290628Z'
 publication_types:
 - 2
-abstract: ''
+abstract: 'Tracking in low frame rate (LFR) videos is one of the most important problems in the tracking literature. Most existing approaches treat LFR video tracking as an abrupt motion tracking problem. However, in LFR video tracking applications, LFR not only causes abrupt motions, but also large appearance changes of objects because the objects poses and the illumination may undergo large changes from one frame to the next. This adds extra difficulties to LFR video tracking. In this paper, we propose a robust and general tracking system for LFR videos. The tracking system consists of four major parts: dominant color-spatial based object representation, bin-ratio based similarity measure, annealed particle swarm optimization (PSO) based searching, and an integral image based parameter calculation. The first two parts are combined to provide a good solution to the appearance changes, and the abrupt motion is effectively captured by the annealed PSO based searching. Moreover, an integral image of model parameters is constructed, which provides a look-up table for parameters calculation. This greatly reduces the computational load. Experimental results demonstrate that the proposed tracking system can effectively tackle the difficulties caused by LFR.'
 publication: '*International Journal of Computer Vision*'
+url_pdf: https://eprints.bbk.ac.uk/13597/1/13597.pdf
 ---

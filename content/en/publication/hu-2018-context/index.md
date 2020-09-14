@@ -36,6 +36,7 @@ projects: []
 publishDate: '2020-09-13T18:08:10.564283Z'
 publication_types:
 - 2
-abstract: ''
+abstract: 'Graphs are effective tools for modeling complex data. Setting out from two basic substructures, random walks and trees, we propose a new family of context-dependent random walk graph kernels and a new family of tree pattern graph matching kernels. In our context-dependent graph kernels, context information is incorporated into primary random walk groups. A multiple kernel learning algorithm with a proposed l 1,2 -norm regularization is applied to combine context-dependent graph kernels of different orders. This improves the similarity measurement between graphs. In our tree-pattern graph matching kernel, a quadratic optimization with a sparse constraint is proposed to select the correctly matched tree-pattern groups. This augments the discriminative power of the tree-pattern graph matching. We apply the proposed kernels to human action recognition, where each action is represented by two graphs which record the spatiotemporal relations between local feature vectors. Experimental comparisons with state-of-the-art algorithms on several benchmark data sets demonstrate the effectiveness of the proposed kernels for recognizing human actions. It is shown that our kernel based on tree-pattern groups, which have more complex structures and exploit more local topologies of graphs than random walks, yields more accurate results but requires more runtime than the context-dependent walk graph kernel.'
 publication: '*IEEE Transactions on Image Processing*'
+url_pdf: https://eprints.bbk.ac.uk/22837/1/RandomWalk.pdf
 ---

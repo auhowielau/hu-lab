@@ -35,6 +35,7 @@ projects: []
 publishDate: '2020-09-13T18:08:13.350338Z'
 publication_types:
 - 2
-abstract: ''
+abstract: 'In the last decade, a wide variety of image signatures, e.g., Bag-of-Visual-Words (BOVW), Fisher Vector (FV), and Vector of Locally Aggregated Descriptor (VLAD), have been developed for effective image retrieval. These image signatures, however, are either computationally expensive or simplified for the purpose of trading accuracy for efficiency. To simultaneously guarantee efficiency and effectiveness, we propose a novel image signature termed Soft and Equalized Residual VEctors (SERVE) which is more discriminatively formulated and maintains higher accuracy. It improves VLAD by encoding the variability in within-cluster feature points into the summation of Residual Vectors (RV) while manifesting superiority in computational efficiency over FV. To find the latent low-dimensional manifolds underlying in the SERVE feature space, we propose to partition the original feature space into separate subspaces by random projections and employ multi-graph embedding to obtain additional performance gain. In particular, we make use of two fusion strategies for graph ensemble to generate a holistic representation. Extensive empirical studies carried out on the three retrieval-specific public benchmarks reveal that our method outperforms existing state-of-the-art methods and provides a promising paradigm for the image retrieval task.'
 publication: '*Neurocomputing*'
+url_pdf: http://ir.ia.ac.cn/bitstream/173211/12647/1/NC16SERVE.pdf
 ---

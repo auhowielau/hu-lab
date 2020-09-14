@@ -34,6 +34,7 @@ projects: []
 publishDate: '2020-09-13T18:08:08.941531Z'
 publication_types:
 - 1
-abstract: ''
+abstract: 'We present a novel Scale Position Correlation Network (SPCNet) for learning to track objects robustly and efficiently. Different from most previous Correlation Filter (CF) based tracking models, SPCNet unifies the feature representation learning and CF based appearance modeling within one end-to-end learnable framework. In particular, SPCNet learns to track objects within a joint scale-position space, and is very effective in learning features for the accurate prediction of object scale and position. To learn our model from end to end, the SPCNet introduces a differentiable correlation filter layer into a Siamese architecture. Therefore, the localization error can be effectively back-propagated through the whole network, enabling fast adaptation of feature learning and appearance modeling for the objects to be tracked. Such task driven feature learning admits a very lightweight design that can be efficiently pre-trained. In addition, the dense appearance modeling in the joint scale-position space is also efficient. It benefits from the computation of gradients within the Fourier frequency domain. Such careful architecture design ensures that SPCNet is effective and efficient with a small model size. Extensive experimental analyses and evaluations on three largest benchmarks, OTB-2013, OTB-2015, and VOT2015, demonstrate its superiority over many state-of-the-art algorithms.'
 publication: '*2018 24th International Conference on Pattern Recognition (ICPR)*'
+url_pdf: http://ir.ia.ac.cn/bitstream/173211/21613/1/SPCNet.pdf
 ---
