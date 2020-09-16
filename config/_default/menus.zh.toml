@@ -20,7 +20,7 @@
 
 [[main]]
   name = "科研成果"
-  url = "achievement/"
+  url = "projects/"
   weight = 40
 
 [[main]]
