@@ -69,5 +69,5 @@ link: ""  # set link: "/author/user-name/" for the author without homepage
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups: ["教师"]
+user_groups: [" "]
 ---

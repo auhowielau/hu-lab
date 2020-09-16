@@ -25,21 +25,21 @@ subtitle = ""
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
   
-  [[content.filter_button]]
-    name = "All"
-    tag = "*"
+  #[[content.filter_button]]
+  #  name = "All"
+  #  tag = "*"
   
-  [[content.filter_button]]
-    name = "Object Detection"
-    tag = "Object Detection"
+  #[[content.filter_button]]
+  #  name = "Object Detection"
+  #  tag = "Object Detection"
   
-  [[content.filter_button]]
-    name = "Object Tracking"
-    tag = "Object Tracking"
+  #[[content.filter_button]]
+  #  name = "Object Tracking"
+  #  tag = "Object Tracking"
 
-  [[content.filter_button]]
-    name = "Action Recognition"
-    tag = "Action Recognition"
+  #[[content.filter_button]]
+  #  name = "Action Recognition"
+  #  tag = "Action Recognition"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
