@@ -20,6 +20,7 @@ lastmod: 2020-09-14T02:08:08+08:00
 featured: false
 draft: false
 
+url_pdf: files/multi
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.

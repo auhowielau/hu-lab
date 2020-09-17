@@ -1,7 +1,7 @@
 ---
 # Display name
 title: 关俊洋
-weight: 80
+weight: 70
 
 # Username (this should match the folder name)
 authors:
