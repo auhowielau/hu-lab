@@ -1,8 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: Fusing $$$$$backslash$mathcal $$$$$$ $$ Features and Local Features with Context-Aware
-  Kernels for Action ecognition
+title: Fusing R Features and Local Features with Context-Aware Kernels for Action ecognition
 subtitle: ''
 summary: ''
 authors:

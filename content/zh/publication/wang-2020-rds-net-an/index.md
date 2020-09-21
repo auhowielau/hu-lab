@@ -5,12 +5,12 @@ title: 'RDSNet: A New Deep Architecture for Reciprocal Object Detection and Inst
 subtitle: ''
 summary: ''
 authors:
-- srwang
+- Shaoru Wang
 - Yongchao Gong
 - Junliang Xing
 - Lichao Huang
 - Chang Huang
-- wmhu
+- Weiming Hu
 tags: []
 categories: []
 date: '2020-01-01'
