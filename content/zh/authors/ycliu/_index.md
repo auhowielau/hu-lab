@@ -1,7 +1,7 @@
 ---
 # Display name
 title: 刘永成
-weight: 40
+weight: 90
 
 # Username (this should match the folder name)
 authors:
@@ -69,5 +69,5 @@ link: "https://yochengliu.github.io/"  # set link: "/author/user-name/" for the 
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups: ["教师"]
+user_groups: [" "]
 ---

@@ -20,13 +20,6 @@
 
 [[main]]
   name = "Projects"
-  identifier = "Projects"
-  # url = "projects/"
-  weight = 40
-
-[[main]]
-  name = "Detection"
-  parent = "Projects"
   url = "projects/"
   weight = 40
 

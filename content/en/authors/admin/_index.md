@@ -1,6 +1,6 @@
 ---
 # Display name
-title: VSLab
+title: Hu-Group
 
 # Username (this should match the folder name)
 authors:

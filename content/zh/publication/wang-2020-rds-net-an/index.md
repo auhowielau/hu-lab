@@ -1,17 +1,16 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: 'RDSNet: A New Deep Architecture for Reciprocal Object Detection and Instance
-  Segmentation'
+title: 'RDSNet: A New Deep Architecture for Reciprocal Object Detection and Instance Segmentation'
 subtitle: ''
 summary: ''
 authors:
-- Shaoru Wang
+- srwang
 - Yongchao Gong
 - Junliang Xing
 - Lichao Huang
 - Chang Huang
-- Weiming Hu
+- wmhu
 tags: []
 categories: []
 date: '2020-01-01'
