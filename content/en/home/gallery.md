@@ -12,13 +12,15 @@ interval = 5000
 # Slide height (optional).
 # E.g. `500px` for 500 pixels or `calc(100vh - 70px)` for full screen.
 height = "400px"
+bottom_opacity = true
 
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "Welcome to **VSLab**"
   content = "Vision & Security Laboratory"
-  align = "center"  # Choose `center`, `left`, or `right`.
+  align = "left"  # Choose `center`, `left`, or `right`.
+  opacity = 0.5 # 透明度取值0-1
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
@@ -37,7 +39,8 @@ height = "400px"
 [[item]]
   title = "Welcome to **VSLab**"
   content = "Vision & Security Laboratory"
-  align = "center"  # Choose `center`, `left`, or `right`.
+  align = "left"  # Choose `center`, `left`, or `right`.
+  opacity = 0.5
 
   # overlay_color = "#333"  # An HTML color value.
   overlay_img = "header2.jpg"  # Image path relative to your `static/media/` folder.

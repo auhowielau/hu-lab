@@ -3,6 +3,7 @@
 widget = "about"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = false  # Activate this widget? true/false
+location = "left"  # Activate this widget? left/right
 weight = 10  # Order that this section will appear in.
 
 title = "简介"
