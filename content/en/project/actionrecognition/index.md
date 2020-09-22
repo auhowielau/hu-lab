@@ -8,6 +8,7 @@ date: "2020-08-25T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
+weight: 20
 
 image:
   caption: 
@@ -32,7 +33,7 @@ slides:
 ## Introduction
 Action recognition is to classify videos containing human actions based on the modeling of the video sequences, with wide application prospects in automatic video analysis, intelligent monitoring, human-computer interaction and so on.  
 Existing methods can be divided into two categories, of which 3D CNN based methods can achieve satisfactory results but suffer from huge computational cost, while 2D methods are efficient with relatively poor performance. Thus the key challenge is to design effective and efficient algorithms to capture representative features from videos.  
-Our team has been working on human action recognition for years, with many papers which proposed varieties of methods, such as linear dynamical system (LDS), tree-pattern graph matching and graph convolutional network and so on.  
+Our team has been working on human action recognition for years, and proposed a variety of methods, such as linear dynamical system (LDS), tree-pattern graph matching and graph convolutional network.  
 <img src="featured.gif" width=80%>
 
 ## Publications

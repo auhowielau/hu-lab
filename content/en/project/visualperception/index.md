@@ -1,13 +1,14 @@
 ---
 title: Visual Perception
 authors: []
-summary: Object detection, segmentation and tracking.
+summary: Object detection, tracking and segmentation.
 tags:
 - 
 date: "2020-08-25T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
+weight: 10
 
 image:
   caption: 
