@@ -8,10 +8,12 @@ title = "Contact us"
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
+  overlay_img_heng = "icon_heng.png"  # Image path relative to your `static/media/` folder.
+  overlay_img_shu = "icon_shu.png"  # Image path relative to your `static/media/` folder.
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["40px", "100px", "0", "100px"]
+  padding = ["40px", "0px", "0", "0px"]
 
 [design.background]
   color = "white"
