@@ -3,7 +3,7 @@ widget = "blank"
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear in.
-title = "新闻"
+title = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -11,12 +11,14 @@ title = "新闻"
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["0px", "0", "0", "0"]
+  padding = ["0px", "0", "0", "40px"]
 
 [design.background]
   color = "white"
 
 +++
+
+## **新闻**
 - 08/24/20: [团队主页](https://hu-lab.netlify.app)上线！
 - 06/24/20: 团队N篇论文被ECCV'20接收!
 

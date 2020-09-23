@@ -12,6 +12,6 @@
 [zh]
  languageCode = "zh-Hans"
  contentDir = "content/zh"
- title = "视频内容安全研究组"
+ title = "VSLab"
  [zh.params]
    description = "视频内容安全研究组"
