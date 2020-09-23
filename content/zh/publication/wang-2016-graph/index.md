@@ -36,6 +36,6 @@ publishDate: '2020-09-13T18:08:14.252935Z'
 publication_types:
 - 1
 abstract: 'Most of existing skeleton-based representations for action recognition can not effectively capture the spatio-temporal motion characteristics of joints and are not robust enough to noise from depth sensors and estimation errors of joints. In this paper, we propose a novel low-level representation for the motion of each joint through tracking its trajectory and segmenting it into several semantic parts called motionlets. During this process, the disturbance of noise is reduced by trajectory fitting, sampling and segmentation. Then we construct an undirected complete labeled graph to represent a video by combining these motionlets and their spatio-temporal correlations. Furthermore, a new graph kernel called subgraph-pattern graph kernel (SPGK) is proposed to measure the similarity between graphs. Finally, the SPGK is directly used as the kernel of SVM to classify videos. In order to evaluate our method, we perform a series of experiments on several public datasets and our approach achieves a comparable performance to the state-of-the-art approaches.'
-publication: '*European conference on computer vision*'
+publication: '*European Conference on Computer Vision (ECCV)*'
 url_pdf: http://159.226.21.68/bitstream/173211/13480/1/chp%253A10.1007%252F978-3-319-46478-7_23.pdf
 ---
