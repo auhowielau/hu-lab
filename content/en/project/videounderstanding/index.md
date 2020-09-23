@@ -1,7 +1,7 @@
 ---
-title: Video Caption
+title: Image/Video Understanding
 authors: []
-summary: Generating natural language descriptions automatically according to the visual information of given videos.
+summary: ???
 tags:
 - 
 date: "2020-08-25T00:00:00Z"
