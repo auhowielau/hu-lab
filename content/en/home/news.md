@@ -11,7 +11,7 @@ title = ""
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["0", "0px", "0", "40px"]
+  padding = ["0", "0px", "0", "20px"]
 
 [design.background]
   color = "white"
