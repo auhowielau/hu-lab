@@ -54,9 +54,9 @@ slides:
       <video src="demo.mp4" width="" height="" controls="controls"></video>
     </div>
     <div class="col-12 col-md-8 order-first">
-      <h3 class="mb-3 mt-4">
-        实验室动物行为分析
-      </h3>
+      <h4 class="mb-3 mt-4">
+        <a href="/zh/subpage/p2-1" style="color: black">实验室动物行为分析</a>
+      </h4>
       <ul>
         <li>实验室动物行为的观察和分析广泛用于神经科学和药理学研究。大鼠和小鼠是常见的动物模型，可用于研究遗传变异，药物治疗，光遗传学刺激和其他干预措施的行为影响。</li>
         <li>人工观察记录的成本高昂：实验人员能够同时关注的目标有限，难以长时间连续工作，在动作记录的精确性上也很难保证。</li>

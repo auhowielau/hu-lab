@@ -57,9 +57,9 @@ slides:
       <img src="project1.png" width=100%>
     </div>
     <div class="col-12 col-md-8">
-      <h3 class="mb-2 mt-4">
+      <h4 class="mb-2 mt-4">
         基于多线索融合的暴恐视频识别技术
-      </h3>
+      </h4>
       <ul>
         <li>关键视听觉要素的挖掘与检测:特殊声音、标志、物体、人物、场景、事件</li>
         <li>工程实现及优化:音视频编解码、算法优化、实现与工程化</li>
@@ -74,9 +74,9 @@ slides:
       <img src="project2.png" width=100%>
     </div>
     <div class="col-12 col-md-8">
-      <h3 class="mb-2 mt-4">
+      <h4 class="mb-2 mt-4">
         网络视频内容智能监测平台
-      </h3>
+      </h4>
       <ul>
         <li>主动与被动相结合、取证与监管相结合</li>
         <li>内容智能识别+大数据分析</li>
@@ -92,9 +92,9 @@ slides:
       <img src="project3.png" width=100%>
     </div>
     <div class="col-12 col-md-8">
-      <h3 class="mb-2 mt-4">
+      <h4 class="mb-2 mt-4">
         网络多媒体大数据风控平台
-      </h3>
+      </h4>
       <ul>
         <li>平台数据分布解析</li>
         <li>媒体传播路径跟踪</li>
@@ -111,9 +111,9 @@ slides:
       <img src="project4.jpg" width=100%>
     </div>
     <div class="col-12 col-md-8">
-      <h3 class="mb-2 mt-4">
+      <h4 class="mb-2 mt-4">
         便携式手机涉恐内容智能检测箱
-      </h3>
+      </h4>
       <ul>
         <li>可支持Android/iOS多个版本型号，测试140多种主流的手机型号</li>
         <li>支持多种内嵌式存储器设计标准</li>

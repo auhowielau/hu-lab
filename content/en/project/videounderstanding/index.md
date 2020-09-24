@@ -1,7 +1,7 @@
 ---
 title: Image/Video Understanding
 authors: []
-summary: ???
+summary: ？？？
 tags:
 - 
 date: "2020-08-25T00:00:00Z"
@@ -31,27 +31,28 @@ url_video: ""
 slides: 
 ---
 ## Introduction
-Video captioning aims to generate natural language descriptions automatically according to the visual information of given videos by understanding the action and event in the video. There are many wonderful visions of video captioning such as blind assistance and autopilot assistance. Video captioning needs to consider both spatial appearance and temporal dynamics of video contents, which is a promising and challenging task. The key problems in this task are twofold: how to extract discriminative features to represent the contents of videos, and how to leverage the existing visual features to match the corresponding captioning corpus. The ultimate aim is to cross the gap between vision and language.  
-Previous works, such as S2VT, SA-LSTM, h-RNN, always leverage appearance features of keyframes and motion features of segments to represent video contents. These features extract global information and hard to capture the detailed temporal dynamics of objects in the video. In the topic of video captioning using objects information, we show that the object relational graph can assist the system to enrich partial information during the process of relational reasoning. Furthermore, for such a complex system, the support of external knowledge is very important. Our approach transfers linguistic knowledge to the model by introducing an external language model. With the help of these methods above, we achieve outstanding performance on MSVD, MSR-VTT and VATEX benchmarks.  
-## Competitions
-- VATEX Captioning Challenge 2019 Chinese and English tracks winner
-## Demo
-<video src="./demo1.mp4" width="360px" height="270px" controls="controls"></video>
+An image can tell a story! A real-world image/video usually contains a lot of entities. These entities, with diverse attributes, obviously/potentially interact with each other, thus constituting multiple complex scenarios. It is very challenging for a computer to fully understand images/videos, because this requires the computer not only to achieve spatial/temporal localization, semantical recognition, and attributive analysis, but also to capture multi-level interactions, even to perform logical reasoning. Recently, a number of interesting tasks have been proposed to facilitate the understanding of images/videos, such as multi-label recognition and image/video caption.  
+VSLab has been devoted to those tasks around image/video understanding for years, with many advanced technologies including multi-instance learning, convolutional neural networks, graph neural networks, knowledge distillation, and so on. Below we list some featured papers and give a specific presentation on Video Captioning.
 
-English captions:  
-People are crossing the street and cars are turning at a busy intersection in a business district.  
-Pedestrians attempt to cross a street at a busy intersection where construction is also taking place.  
-<video src="./demo2.mp4" width="360px" height="270px" controls="controls"></video>
+## Featured Topics
+<html>
+  <div class="row align-items-flex-start">
+    <div class="col-12 col-md-4 order-first">
+      <img src="featured.png" width=100%>
+    </div>
+    <div class="col-12 col-md-8">
+      <h4 class="mb-0 mt-4">
+        <a href="/subpage/videocaption" style="color: black">Video Caption</a>
+      </h4>
+        Video captioning aims to generate natural language descriptions automatically according to the visual information of given videos by understanding the action and event in the video. There are many wonderful visions of video captioning such as blind assistance and autopilot assistance. Video captioning needs to consider both spatial appearance and temporal dynamics of video contents, which is a promising and challenging task. The key problems in this task are twofold: how to extract discriminative features to represent the contents of videos, and how to leverage the existing visual features to match the corresponding captioning corpus.
+    </div>
+  </div>
+</html>
 
-English Captions:  
-A person in a bear costumer stands in a bounce house and falls down as people talk in the background.  
-A person wearing a bear costume is inside an inflatable play area as they lose their balance and fall over.  
 ## Publications
-- Object Relational Graph with Teacher-Recommended Learning for Video Captioning [CVPR2020]  
-Ziqi Zhang, Yaya Shi, Chunfeng Yuan, Bing Li, Peijin Wang, Weiming Hu, Zhengjun Zha.  
-<img src="org.png" width=80%>
-We propose an object relational graph (ORG) based encoder, which captures more detailed interaction features to enrich visual representation. Meanwhile, we design a teacher-recommended learning (TRL) method to make full use of the successful external language model (ELM) to integrate the abundant linguistic knowledge into the caption model.
-- Multimodal Semantic Attention Network for Video Captioning [ICME2019]  
-Liang Sun, Bing Li, Chunfeng Yuan, Zhengjun Zha, Weiming Hu.
-- Dual sticky hierarchical Dirichlet process hidden Markov model and its application to natural language description of motions [TPAMI2018]  
-Weiming Hu, Guodong Tian, Yongxin Kang, Chunfeng Yuan, and Stephen Maybank.
+- <a href="/publication/ding-2020-web" style="color: black">Xinmiao Ding, Bing Li, Yangxi Li, Wen Guo, Yao Liu, Weihua Xiong, Weiming Hu (2020). Web Objectionable Video Recognition Based on Deep Multi Instance Learning with Representative Prototypes Selection. IEEE Transactions on Circuits and Systems for Video Technology.</a>
+- <a href="/publication/li-2020-anisotropic" style="color: black">Wenjuan Li, Bing Li, Chunfeng Yuan, Yangxi Li, Haohao Wu, Weiming Hu, Fangshi Wang (2020). Anisotropic Convolution for Image Classification. IEEE Transactions on Image Processing.</a>
+- <a href="/publication/liu-2019-knowledge" style="color: black">Yufan Liu, Jiajiong Cao, Bing Li, Chunfeng Yuan, Weiming Hu, Yangxi Li, Yunqiang Duan (2019). Knowledge distillation via instance relationship graph. IEEE Conference on Computer Vision and Pattern Recognition (CVPR).</a>
+- <a href="/publication/hu-2018-dual" style="color: black">Weiming Hu, Guodong Tian, Yongxin Kang, Chunfeng Yuan, Stephen Maybank (2018). Dual sticky hierarchical Dirichlet process hidden Markov model and its application to natural language description of motions. IEEE transactions on pattern analysis and machine intelligence.</a>
+- <a href="/publication/li-2017-multi" style="color: black">Bing Li, Chunfeng Yuan, Weihua Xiong, Weiming Hu, Houwen Peng, Xinmiao Ding, Steve Maybank (2017). Multi-view multi-instance learning based on joint sparse representation and multi-view dictionary learning. IEEE transactions on pattern analysis and machine intelligence.</a>
+- <a href="/publication/peng-2016-salient" style="color: black">Houwen Peng, Bing Li, Haibin Ling, Weiming Hu, Weihua Xiong, Stephen J Maybank (2016). Salient object detection via structured matrix decomposition. IEEE transactions on pattern analysis and machine intelligence.</a>
