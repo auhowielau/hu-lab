@@ -16,6 +16,8 @@ bottom_opacity = true
 
 # Choose how many columns the section has. Valid values: 1 or 2.
 hugo_logo = "hugo_logo_en.jpg"  # Image path relative to your `static/media/` folder.
+hugo_logo2 = "hugo_logo2.png"  # Image path relative to your `static/media/` folder.
+hugo_logo3 = "hugo_logo3.png"  # Image path relative to your `static/media/` folder.
 logo_title = "视频内容安全研究组"
 logo_content = "Vision & Security Laboratory"
 
