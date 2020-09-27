@@ -1,7 +1,7 @@
 +++
 widget = "blank"
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear in.
 title = ""
 
@@ -17,4 +17,4 @@ title = ""
   color = "white"
 
 +++
-<center><font size=6>专利/项目/荣誉</font></center>
+<center><font size=6>研究成果</font></center>
