@@ -25,14 +25,14 @@ logo_content = "Vision & Security Laboratory"
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "Welcome to **VSLab**"
-  content = "视频内容安全研究组"
+  content = "Fast Online Object Tracking and Segmentation: A Unifying Approach [了解更多](http://www.robots.ox.ac.uk/~qwang/SiamMask/)"
   align = "left"  # Choose `center`, `left`, or `right`.
   opacity = 0.5  # 透明度取值0-1
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   # overlay_color = "#666"  # An HTML color value.
-  overlay_img = "header1.jpg"  # Image path relative to your `static/media/` folder.
+  overlay_img = "siammask.png"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
@@ -45,11 +45,31 @@ logo_content = "Vision & Security Laboratory"
 
 [[item]]
   title = "Welcome to **VSLab**"
-  content = "视频内容安全研究组"
+  content = "VOT2018实时跟踪竞赛冠军(SiamRPN)"
   align = "left"  # Choose `center`, `left`, or `right`.
   opacity = 0.5
 
   # overlay_color = "#333"  # An HTML color value.
-  overlay_img = "header2.jpg"  # Image path relative to your `static/media/` folder.
+  overlay_img = "vot.jpg"  # Image path relative to your `static/media/` folder.
+  overlay_filter = 0  # Darken the image. Value in range 0-1.
+
+[[item]]
+  title = "Welcome to **VSLab**"
+  content = "ICCV2019 VATEX视频描述挑战赛中/英文双赛道冠军"
+  align = "left"  # Choose `center`, `left`, or `right`.
+  opacity = 0.5
+
+  # overlay_color = "#333"  # An HTML color value.
+  overlay_img = "vatex.jpg"  # Image path relative to your `static/media/` folder.
+  overlay_filter = 0  # Darken the image. Value in range 0-1.
+
+[[item]]
+  title = "Welcome to **VSLab**"
+  content = "网络多媒体大数据风控平台"
+  align = "left"  # Choose `center`, `left`, or `right`.
+  opacity = 0.5
+
+  # overlay_color = "#333"  # An HTML color value.
+  overlay_img = "content_security.png"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0  # Darken the image. Value in range 0-1.
 +++
