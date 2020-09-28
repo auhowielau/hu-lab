@@ -22,6 +22,10 @@ hugo_logo3 = "hugo_logo3.png"  # Image path relative to your `static/media/` fol
 logo_title = "视频内容安全研究组"
 logo_content = "Vision & Security Laboratory"
 
+[design.spacing]
+  # Customize the section spacing. Order is top, right, bottom, left.
+  padding = ["0", "20px", "0", "20px"]
+
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
@@ -46,7 +50,7 @@ logo_content = "Vision & Security Laboratory"
 
 [[item]]
   title = "Welcome to **VSLab**"
-  content = "VOT2018实时跟踪竞赛冠军(SiamRPN)"
+  content = "VOT2018实时跟踪竞赛冠军(SiamRPN) [了解更多](/zh/project/visualperception)"
   align = "left"  # Choose `center`, `left`, or `right`.
   opacity = 0.8
 
@@ -56,7 +60,7 @@ logo_content = "Vision & Security Laboratory"
 
 [[item]]
   title = "Welcome to **VSLab**"
-  content = "ICCV2019 VATEX视频描述挑战赛中/英文双赛道冠军"
+  content = "ICCV2019 VATEX视频描述挑战赛中/英文双赛道冠军 [了解更多](/zh/project/videounderstanding)"
   align = "left"  # Choose `center`, `left`, or `right`.
   opacity = 0.8
 
@@ -66,7 +70,7 @@ logo_content = "Vision & Security Laboratory"
 
 [[item]]
   title = "Welcome to **VSLab**"
-  content = "网络多媒体大数据风控平台"
+  content = "网络多媒体大数据风控平台 [了解更多](/zh/project/contentsecurity)"
   align = "left"  # Choose `center`, `left`, or `right`.
   opacity = 0.8
 

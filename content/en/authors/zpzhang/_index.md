@@ -65,7 +65,7 @@ bio:
 email: ""
 
 # Link to the homepage of the author
-link: "https://www.zhipeng.cn"  # set link: "/author/user-name/" for the author without homepage
+link: ""  # set link: "/author/user-name/" for the author without homepage
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.

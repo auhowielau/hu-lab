@@ -10,7 +10,7 @@ subtitle = ""
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["0px", "100px", "0", "100px"]
+  padding = ["20px", "150px", "0", "150px"]
 
 [content]
   # Page type to display. E.g. project.

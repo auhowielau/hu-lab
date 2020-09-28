@@ -11,10 +11,10 @@ title = ""
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["30px", "0", "20px", "0"]
+  padding = ["30px", "150px", "0", "150px"]
 
 [design.background]
   color = "white"
 
 +++
-<center><font size=6>研究项目</font></center>
+# 研究项目

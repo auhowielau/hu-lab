@@ -12,7 +12,7 @@ location = "right"
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["0", "0px", "0", "20px"]
+  padding = ["0", "0", "0", "30px"]
 
 [design.background]
   color = "white"
@@ -20,6 +20,12 @@ location = "right"
 +++
 
 ## **News**
-- 08/24/20: [Homepage](https://hu-lab.netlify.app) online!
-- 06/24/20: We have N papers accepted to ECCV'20!
-
+- 08/2020: Two papers on visual tracking and saliency prediction are accepted by ECCV 2020.
+- 06/2020: Two papers on visual tracking and video captioning are accepted by CVPR 2020.
+- 11/2019: Our team wins VATEX Captioning Challenge 2019.
+- 06/2019: Three papers on visual tracking and knowledge distillation are accepted by CVPR 2019.
+- 09/2018: Our team wins VOT2018 real-time challenge.
+- 09/2018: Three papers on visual tracking and action recognition are accepted by ECCV 2018.
+- 06/2018: Two papers on visual tracking and facial age estimation are accepted by CVPR 2018.
+- 07/2018: One paper on visual tracking is accepted by IJCAI 2018.
+- 02/2018: One paper on action recognition is accepted by AAAI 2018.

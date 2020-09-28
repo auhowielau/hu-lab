@@ -23,4 +23,4 @@ title = "Contact us"
 Postcode: 100190  
 Email:    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;qyxu@nlpr.ia.ac.cn  
 Phone:    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(0086)010-82544609  
-Address:  &nbsp;&nbsp;15th Floor,&nbsp; Intelligent Building,&nbsp; Number 95, Zhongguancun East Road, Haidian District, Beijing, China.
+Address:  &nbsp;&nbsp;15th Floor, Intelligent Building, Number 95, Zhongguancun East Road, Haidian District, Beijing, China.
