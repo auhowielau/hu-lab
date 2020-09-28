@@ -13,7 +13,7 @@ title = "联系我们"
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["40px", "100px", "0", "100px"]
+  padding = ["40px", "150px", "0", "150px"]
 
 [design.background]
   color = "white"

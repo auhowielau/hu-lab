@@ -1,7 +1,7 @@
 ---
 title: 行为识别
 authors: []
-summary: 基于视频序列建模和识别人类行为
+summary: "    "
 tags:
 - 
 date: "2020-08-25T00:00:00Z"

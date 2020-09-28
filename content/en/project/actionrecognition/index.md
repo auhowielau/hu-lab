@@ -1,7 +1,7 @@
 ---
 title: Action Recognition
 authors: []
-summary: Classify videos containing human actions based on the modeling of the video sequences.
+summary: "    "
 tags:
 - 
 date: "2020-08-25T00:00:00Z"

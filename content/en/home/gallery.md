@@ -28,7 +28,7 @@ logo_content = "Vision & Security Laboratory"
   title = "Welcome to **VSLab**"
   content = "Fast Online Object Tracking and Segmentation: A Unifying Approach [learn more](http://www.robots.ox.ac.uk/~qwang/SiamMask/)"
   align = "left"  # Choose `center`, `left`, or `right`.
-  opacity = 0.5 # 透明度取值0-1
+  opacity = 0.8 # 透明度取值0-1
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
@@ -48,7 +48,7 @@ logo_content = "Vision & Security Laboratory"
   title = "Welcome to **VSLab**"
   content = "VOT2018 realtime track winner (SiamRPN)"
   align = "left"  # Choose `center`, `left`, or `right`.
-  opacity = 0.5
+  opacity = 0.8
 
   # overlay_color = "#333"  # An HTML color value.
   overlay_img = "vot.jpg"  # Image path relative to your `static/media/` folder.
@@ -58,7 +58,7 @@ logo_content = "Vision & Security Laboratory"
   title = "Welcome to **VSLab**"
   content = "VATEX Captioning Challenge 2019 Chinese and English tracks winner"
   align = "left"  # Choose `center`, `left`, or `right`.
-  opacity = 0.5
+  opacity = 0.8
 
   # overlay_color = "#333"  # An HTML color value.
   overlay_img = "vatex.jpg"  # Image path relative to your `static/media/` folder.

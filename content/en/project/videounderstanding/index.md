@@ -1,7 +1,7 @@
 ---
 title: Image/Video Understanding
 authors: []
-summary: ？？？
+summary: "    "
 tags:
 - 
 date: "2020-08-25T00:00:00Z"
