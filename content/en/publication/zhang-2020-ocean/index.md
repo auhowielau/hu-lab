@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: 'Ocean: Object-aware Anchor-free Tracking'
+title: 'Ocean: Object-aware anchor-free tracking'
 subtitle: ''
 summary: ''
 authors:
@@ -32,7 +32,7 @@ publishDate: '2020-09-13T18:08:08.647282Z'
 publication_types:
 - 1
 abstract: 'Anchor-based Siamese trackers have achieved remarkable advancements in accuracy, yet the further improvement is restricted by the lagged tracking robustness. We find the underlying reason is that the regression network in anchor-based methods is only trained on the positive anchor boxes (i.e., IoU≥0.6). This mechanism makes it difficult to refine the anchors whose overlap with the target objects are small. In this paper, we propose a novel object-aware anchor-free network to address this issue. First, instead of refining the reference anchor boxes, we directly predict the position and scale of target objects in an anchor-free fashion. Since each pixel in groundtruth boxes is well trained, the tracker is capable of rectifying inexact predictions of target objects during inference. Second, we introduce a feature alignment module to learn an object-aware feature from predicted bounding boxes. The object-aware feature can further contribute to the classification of target objects and background. Moreover, we present a novel tracking framework based on the anchor-free model. The experiments show that our anchor-free tracker achieves state-of-the-art performance on five benchmarks, including VOT-2018, VOT-2019, OTB-100, GOT-10k and LaSOT.'
-publication: '*European Conference on Computer Vision (ECCV)*'
+publication: '*European Conference on Computer Vision (**ECCV**)*'
 url_pdf: https://arxiv.org/pdf/2006.10721
 url_code: https://github.com/researchmm/TracKit
 ---

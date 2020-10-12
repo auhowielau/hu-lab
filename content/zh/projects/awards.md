@@ -1,73 +1,61 @@
 +++
-# A Projects section created with the Portfolio widget.
-widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "blank"
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 30  # Order that this section will appear.
-
+weight = 20  # Order that this section will appear in.
 title = ""
-subtitle = ""
-
-[design.spacing]
-  # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["20px", "150px", "0", "150px"]
-
-[content]
-  # Page type to display. E.g. project.
-  page_type = "project_"
-  
-  # Filter toolbar (optional).
-  # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
-  # To show all items, set `tag` to "*".
-  # To filter by a specific tag, set `tag` to an existing tag name.
-  # To remove toolbar, delete/comment all instances of `[[content.filter_button]]` below.
-  
-  # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
-  filter_default = 0
-  
-  #[[content.filter_button]]
-  #  name = "All"
-  #  tag = "*"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
 
-  # Toggle between the various page layout types.
-  #   1 = List
-  #   2 = Compact
-  #   3 = Card
-  #   5 = Showcase
-  view = 3
-
-  # For Showcase view, flip alternate rows?
-  flip_alt_rows = false
+[design.spacing]
+  # Customize the section spacing. Order is top, right, bottom, left.
+  padding = ["30px", "150px", "0", "150px"]
 
 [design.background]
-  # Apply a background color, gradient, or image.
-  #   Uncomment (by removing `#`) an option to apply it.
-  #   Choose a light or dark text color by setting `text_color_light`.
-  #   Any HTML color name or Hex value is valid.
-  
-  # Background color.
   color = "white"
-  
-  # Background gradient.
-  # gradient_start = "DeepSkyBlue"
-  # gradient_end = "SkyBlue"
-  
-  # Background image.
-  # image = ""  # Name of image in `static/media/`.
-  # image_darken = 0  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
-  # Text color (true=light or false=dark).
-  # text_color_light = true  
-
-[advanced]
- # Custom CSS. 
- css_style = ""
- 
- # CSS class.
- css_class = ""
 +++
+## 所获荣誉
+- 一种高效的敏感图像检测方法及其系统，国家知识产权局，中国专利优秀奖.
+- 网络信息安全分析与识别的技术、系统及应用，北京市人民政府，北京市科学技术奖，省部一等奖，2012.
+- 一种基于多分类器融合的敏感网页过滤方法及系统，北京市人民政府，北京市发明专利奖，省部一等奖，2014.
+- 视觉运动跟踪与行为模式学习的理论及方法，中国人工智能学会，吴文俊人工智能科学技术奖一等奖，2015.
+- VOT2018实时跟踪竞赛冠军(SiamRPN)，2018.
+- ICCV2019 VATEX视频描述挑战赛中/英文双赛道冠军，2019.
 
+## 研究项目
+- 感知对象快速精准分割、检测及其与跟踪识别的一体化学习，科技创新2030-“新一代人工智能”重大项目子课题，国家重点研发计划，在研.
+- 大范围场景地图构建、自主定位、透彻感知与动态认知，国家重点研发计划，在研.
+- 基于目标行为的视频流内容安全分析与智能检索，国家自然科学基金重点项目，在研.
+- 复杂视觉时空信息的类脑感知与理解，中科院前沿科学重点研究项目，在研.
+- 基于RGB-D视频的多模态人体行为识别研究，国家自然科学基金，在研.
+- 面向轮式机器人应用的在线实时目标跟踪研究，国家自然科学基金，在研.
+- 面向公共安全的视频敏感内容识别技术研究，国家自然科学基金，在研.
+- 开放、不确定环境下视觉感知与行为的类脑机器理解，国家自然科学基金，在研.
+- 网络敏感多媒体识别与比对关键技术研究，国家自然科学联合基金，在研.
+- 基于DPS的感知信息特征模型与实时反馈，国家重点基础研究发展计划（973），已结题.
+- 神经学启发的深度学习新模型及在视觉时空信息感知与理解中的应用，北京市自然科学基金重点研究专题，已结题.
+
+## 发明专利
+- 融合互补特征的视觉人体行为识别方法，ZL201611257407.8，2020.
+- 近似重复图像检测方法，ZL201610965340.7，2020.
+- 一种基于线性动态系统的视频关键帧提取方法，ZL201610596600.8，2019.
+- 基于低秩矩阵表示的图像前景物体检测方法及检测系统，ZL201610575854.1，2019.
+- 一种基于图核的人体行为识别方法，ZL201510451096.8，2019.
+- 基于图像与文本的视频的快速分类方法，ZL201510075140.X，2018.
+- 一种基于多示例学习的有害信息识别和网页分类方法，ZL201410609728.4，2018.
+- 一种对重复视频进行检测的方法，ZL201310655669.X，2017.
+- 一种网络敏感视频检测方法，ZL201410064902.1，2017.
+- 一种网络暴力视频的识别方法，ZL201310139552.6，2017.
+- 一种基于光照特征的网络敏感图像识别方法，ZL201410064935.6，2017.
+- 一种基于语义特征自动学习与筛选的人类行为识别方法，ZL201410319126.5，2017.
+- 一种网络环境下的近似重复图像搜索方法，ZL201410602359.6，2017.
+- 一种基于成分距离关系图的视频跟踪方法，ZL201310739297.9，2016.
+- 一种基于时空特征的网络同源视频检测方法，ZL201310303194.8，2016.
+- 基于判别性示例选择多示例学习的恐怖视频识别方法，ZL201310376064.7，2016.
+- 基于多视角多示例学习的恐怖视频场景识别方法，ZL201310376618.3，2016.
+- 一种对视频词典进行压缩的方法，ZL201110433394.6，2015.
+- 一种基于多任务联合稀疏表示的目标跟踪方法，ZL201210562986.7，2015.
+- 一种基于离群数据挖掘的图像显著性检测方法，ZL201210569877.3，2015.

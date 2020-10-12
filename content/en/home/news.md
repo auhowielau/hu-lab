@@ -20,12 +20,12 @@ location = "right"
 +++
 
 ## **News**
-- 08/2020: Two papers on visual tracking and saliency prediction are accepted by ECCV 2020.
-- 06/2020: Two papers on visual tracking and video captioning are accepted by CVPR 2020.
-- 11/2019: Our team wins VATEX Captioning Challenge 2019.
-- 06/2019: Three papers on visual tracking and knowledge distillation are accepted by CVPR 2019.
-- 09/2018: Our team wins VOT2018 real-time challenge.
-- 09/2018: Three papers on visual tracking and action recognition are accepted by ECCV 2018.
-- 06/2018: Two papers on visual tracking and facial age estimation are accepted by CVPR 2018.
-- 07/2018: One paper on visual tracking is accepted by IJCAI 2018.
-- 02/2018: One paper on action recognition is accepted by AAAI 2018.
+- **08/2020:** Two papers on visual tracking and saliency prediction are accepted by [ECCV 2020](https://eccv2020.eu/).
+- **06/2020:** Two papers on visual tracking and video captioning are accepted by [CVPR 2020](http://cvpr2020.thecvf.com/).
+- **11/2019:** Our team wins [VATEX Captioning Challenge 2019](https://arxiv.org/pdf/1910.05752.pdf).
+- **06/2019:** Three papers on visual tracking and knowledge distillation are accepted by [CVPR 2019](https://cvpr2019.thecvf.com/).
+- **09/2018:** Our team wins [VOT2018 real-time challenge](https://www.votchallenge.net/vot2018/).
+- **09/2018:** Three papers on visual tracking and action recognition are accepted by [ECCV 2018](https://eccv2018.org/).
+- **06/2018:** Two papers on visual tracking and facial age estimation are accepted by [CVPR 2018](https://cvpr2018.thecvf.com/).
+- **07/2018:** One paper on visual tracking is accepted by [IJCAI 2018](https://www.ijcai-18.org/).
+- **02/2018:** One paper on action recognition is accepted by [AAAI 2018](https://aaai.org/Conferences/AAAI-18/).

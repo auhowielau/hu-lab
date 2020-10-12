@@ -36,8 +36,8 @@ projects: []
 publishDate: '2020-09-27T08:54:17.091693Z'
 publication_types:
 - 2
-abstract: ''
-publication: '*International Journal of Computer Vision (IJCV)*'
+abstract: 'Appearance modeling is very important for background modeling and object tracking. Subspace learning-based algorithms have been used to model the appearances of objects or scenes. Current vector subspace-based algorithms cannot effectively represent spatial correlations between pixel values. Current tensor subspace-based algorithms construct an offline representation of image ensembles, and current online tensor subspace learning algorithms cannot be applied to background modeling and object tracking. In this paper, we propose an online tensor subspace learning algorithm which models appearance changes by incrementally learning a tensor subspace representation through adaptively updating the sample mean and an eigenbasis for each unfolding matrix of the tensor. The proposed incremental tensor subspace learning algorithm is applied to foreground segmentation and object tracking for grayscale and color image sequences. The new background models capture the intrinsic spatiotemporal characteristics of scenes. The new tracking algorithm captures the appearance characteristics of an object during tracking and uses a particle filter to estimate the optimal object state. Experimental evaluations against state-of-the-art algorithms demonstrate the promise and effectiveness of the proposed incremental tensor subspace learning algorithm, and its applications to foreground segmentation and object tracking.'
+publication: '*International Journal of Computer Vision (**IJCV**)*'
 year: '~2014'
 url_pdf: https://link.springer.com/content/pdf/10.1007/s11263-010-0399-6.pdf
 ---

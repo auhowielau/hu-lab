@@ -37,6 +37,6 @@ publishDate: '2020-09-13T18:08:10.708895Z'
 publication_types:
 - 2
 abstract: 'We construct a new efficient near duplicate image detection method using a hierarchical hash code learning neural network and load-balanced locality-sensitive hashing (LSH) indexing. We propose a deep constrained siamese hash coding neural network combined with deep feature learning. Our neural network is able to extract effective features for near duplicate image detection. The extracted features are used to construct a LSH-based index. We propose a load-balanced LSH method to produce load-balanced buckets in the hashing process. The load-balanced LSH significantly reduces the query time. Based on the proposed load-balanced LSH, we design an effective and feasible algorithm for near duplicate image detection. Extensive experiments on three benchmark data sets demonstrate the effectiveness of our deep siamese hash encoding network and load-balanced LSH.'
-publication: '*IEEE Transactions on Image Processing (TIP)*'
+publication: '*IEEE Transactions on Image Processing (**TIP**)*'
 url_pdf: http://eprints.bbk.ac.uk/22505/1/DeepConstrainedSiamese.pdf
 ---

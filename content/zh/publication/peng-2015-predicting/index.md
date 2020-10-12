@@ -36,6 +36,6 @@ publishDate: '2020-09-13T18:08:14.833513Z'
 publication_types:
 - 1
 abstract: 'The images we encounter throughout our lives make different impressions on us: Some are remembered at first glance, while others are forgotten. This phenomenon is caused by the intrinsic memorability of images revealed by recent studies [5,6]. In this paper, we address the issue of automatically estimating the memorability of images by proposing a novel multi-view adaptive regression (MAR) model. The MAR model provides an effective mapping of visual features to memorability scores by taking advantage of robust feature selection and multiple feature integration. It consists of three major components: an adaptive loss function, an adaptive regularization and a multi-view modeling strategy. Moreover, we design an alternating direction method (ADM) optimization algorithm to solve the proposed objective function. Experimental results on the MIT benchmark dataset show the superiority of the proposed model compared with existing image memorability prediction methods.'
-publication: '*ACM international conference on Multimedia (ACM MM)*'
+publication: '*ACM international conference on Multimedia (**ACM MM**)*'
 url_pdf: http://ir.ia.ac.cn/bitstream/173211/13479/1/p1147-peng.pdf.pdf
 ---

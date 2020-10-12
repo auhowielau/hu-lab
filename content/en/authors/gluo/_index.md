@@ -69,5 +69,5 @@ link: "http://people.ucas.edu.cn/~luoguan?language=en"  # set link: "/author/use
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups: ["Professors"]
+user_groups: ["Faculty"]
 ---

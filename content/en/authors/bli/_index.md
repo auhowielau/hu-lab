@@ -69,5 +69,5 @@ link: "http://www.ia.cas.cn/sourcedb_ia_cas/cn/iaexpert/201707/t20170715_4833365
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups: ["Professors"]
+user_groups: ["Faculty"]
 ---

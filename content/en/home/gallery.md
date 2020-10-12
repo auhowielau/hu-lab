@@ -12,7 +12,7 @@ interval = 5000
 
 # Slide height (optional).
 # E.g. `500px` for 500 pixels or `calc(100vh - 70px)` for full screen.
-height = "400px"
+height = "450px"
 bottom_opacity = true
 
 # Choose how many columns the section has. Valid values: 1 or 2.
@@ -30,6 +30,16 @@ logo_content = "Vision & Security Laboratory"
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "Welcome to **VSLab**"
+  content = "VSLab has carried out much high-quality research of fundamental theories and innovative methods around 'AI + Security' [learn more](/projects/)"
+  align = "left"  # Choose `center`, `left`, or `right`.
+  opacity = 0.8
+
+  # overlay_color = "#333"  # An HTML color value.
+  overlay_img = "vs_en.png"  # Image path relative to your `static/media/` folder.
+  overlay_filter = 0  # Darken the image. Value in range 0-1.
+
+[[item]]
+  title = "Welcome to **VSLab**"
   content = "Fast Online Object Tracking and Segmentation: A Unifying Approach [learn more](http://www.robots.ox.ac.uk/~qwang/SiamMask/)"
   align = "left"  # Choose `center`, `left`, or `right`.
   opacity = 0.8 # 透明度取值0-1
@@ -37,7 +47,7 @@ logo_content = "Vision & Security Laboratory"
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   # overlay_color = "#666"  # An HTML color value.
-  overlay_img = "siammask.png"  # Image path relative to your `static/media/` folder.
+  overlay_img = "siammask.gif"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
@@ -55,7 +65,7 @@ logo_content = "Vision & Security Laboratory"
   opacity = 0.8
 
   # overlay_color = "#333"  # An HTML color value.
-  overlay_img = "vot.jpg"  # Image path relative to your `static/media/` folder.
+  overlay_img = "vot_.jpg"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0  # Darken the image. Value in range 0-1.
 
 [[item]]
@@ -65,6 +75,6 @@ logo_content = "Vision & Security Laboratory"
   opacity = 0.8
 
   # overlay_color = "#333"  # An HTML color value.
-  overlay_img = "vatex.jpg"  # Image path relative to your `static/media/` folder.
+  overlay_img = "vatex_.jpg"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0  # Darken the image. Value in range 0-1.
 +++

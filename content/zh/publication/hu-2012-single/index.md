@@ -36,8 +36,8 @@ projects: []
 publishDate: '2020-09-27T08:54:16.840337Z'
 publication_types:
 - 2
-abstract: ''
-publication: '*IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*'
+abstract: 'Object appearance modeling is crucial for tracking objects, especially in videos captured by nonstationary cameras and for reasoning about occlusions between multiple moving objects. Based on the log-euclidean Riemannian metric on symmetric positive definite matrices, we propose an incremental log-euclidean Riemannian subspace learning algorithm in which covariance matrices of image features are mapped into a vector space with the log-euclidean Riemannian metric. Based on the subspace learning algorithm, we develop a log-euclidean block-division appearance model which captures both the global and local spatial layout information about object appearances. Single object tracking and multi-object tracking with occlusion reasoning are then achieved by particle filtering-based Bayesian state inference. During tracking, incremental updating of the log-euclidean block-division appearance model captures changes in object appearance. For multi-object tracking, the appearance models of the objects can be updated even in the presence of occlusions. Experimental results demonstrate that the proposed tracking algorithm obtains more accurate results than six state-of-the-art tracking algorithms.'
+publication: '*IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**)*'
 year: '~2014'
 url_pdf: http://eprints.bbk.ac.uk/13325/1/13325.pdf
 ---

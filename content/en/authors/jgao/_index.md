@@ -69,5 +69,5 @@ link: "http://www.nlpr.ia.ac.cn/users/gaojin/"  # set link: "/author/user-name/"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups: ["Professors"]
+user_groups: ["Faculty"]
 ---
