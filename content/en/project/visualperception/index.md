@@ -32,12 +32,12 @@ slides:
 ---
 <!-- <img src="featured.gif" width=80%> -->
 ## Introduction
-&emsp;&emsp;Object detection, segmentation, tracking are all fundamental tasks in computer vision. Object detection aims to detect instances of semantic objects of a certain class (such as humans, buildings, or cars) in digital images, and visual object tracking (VOT) focuses on estimating the location and scale of a target (or multiple targets) in a video sequence. Beyond representing object locations as rectangle bounding boxes, pixel-level masks can provide more specific location information, namely instance segmentation and video object segmentation (VOS). The above-mentioned technologies are widely used in many fields such as robot navigation, intelligent video surveillance, industrial inspection, and video editing. VSLab has been strenuously working on these fields for many years and has achieved rich results in both theoretical research and practical applications.    
+Object detection, segmentation, tracking are all fundamental tasks in computer vision. Object detection aims to detect instances of semantic objects of a certain class (such as humans, buildings, or cars) in digital images, and visual object tracking (VOT) focuses on estimating the location and scale of a target (or multiple targets) in a video sequence. Beyond representing object locations as rectangle bounding boxes, pixel-level masks can provide more specific location information, namely instance segmentation and video object segmentation (VOS). The above-mentioned technologies are widely used in many fields such as robot navigation, intelligent video surveillance, industrial inspection, and video editing. VSLab has been strenuously working on these fields for many years and has achieved rich results in both theoretical research and practical applications.    
 ## Competitions
-- Visual Object Tracking competition 2018 (VOT2018) realtime track winner (SiamRPN).
-- Visual Object Tracking competition 2019 (VOT2019) RGBT track runner-up (SiamDW-T).
-- Visual Object Tracking competition 2020 (VOT2020) realtime and base track runner-ups (OcenaPlus).
-- Visual Object Tracking competition 2020 (VOT2020) RGBT track winner (SiamDW-T re-submitted by the committee).
+- Visual Object Tracking competition 2018 ([VOT2018](https://www.votchallenge.net/vot2018/)) realtime track winner (SiamRPN).
+- Visual Object Tracking competition 2019 ([VOT2019](https://www.votchallenge.net/vot2019/)) RGBT track runner-up (SiamDW-T).
+- Visual Object Tracking competition 2020 ([VOT2020](https://www.votchallenge.net/vot2020/)) realtime and base track runner-ups (OcenaPlus).
+- Visual Object Tracking competition 2020 ([VOT2020](https://www.votchallenge.net/vot2020/)) RGBT track winner (SiamDW-T re-submitted by the committee).
 ## Talks
 - Qiang Wang: [SiamMask](https://www.bilibili.com/video/BV1Kt411u7CT?from=search&seid=14223038225505545546)
 - Zhipeng Zhang: [Ocean](https://www.bilibili.com/video/BV1354y1e7wU?from=search&seid=10926703456041213142)

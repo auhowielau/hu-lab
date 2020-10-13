@@ -60,7 +60,7 @@ logo_content = "Vision & Security Laboratory"
 
 [[item]]
   title = "Welcome to **VSLab**"
-  content = "VOT2018实时跟踪竞赛冠军(SiamRPN) &nbsp;[**了解更多**](/zh/project/visualperception)"
+  content = "VOT2018实时跟踪竞赛冠军 &nbsp;[**了解更多**](/zh/project/visualperception)"
   align = "left"  # Choose `center`, `left`, or `right`.
   opacity = 0.8
 

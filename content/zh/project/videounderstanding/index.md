@@ -1,5 +1,5 @@
 ---
-title: 图像/视频理解
+title: 图像/视频内容理解
 authors: []
 summary: "    "
 tags:
