@@ -30,7 +30,7 @@ logo_content = "Vision & Security Laboratory"
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "Welcome to **VSLab**"
-  content = "VSLab has carried out much high-quality research of fundamental theories and innovative methods around 'AI + Security' [learn more](/projects/)"
+  content = "VSLab has carried out much high-quality research of fundamental theories and innovative methods around 'AI + Security' &nbsp;[**learn more**](/projects/)"
   align = "left"  # Choose `center`, `left`, or `right`.
   opacity = 0.8
 
@@ -40,7 +40,7 @@ logo_content = "Vision & Security Laboratory"
 
 [[item]]
   title = "Welcome to **VSLab**"
-  content = "Fast Online Object Tracking and Segmentation: A Unifying Approach [learn more](http://www.robots.ox.ac.uk/~qwang/SiamMask/)"
+  content = "Fast Online Object Tracking and Segmentation: A Unifying Approach &nbsp;[**learn more**](http://www.robots.ox.ac.uk/~qwang/SiamMask/)"
   align = "left"  # Choose `center`, `left`, or `right`.
   opacity = 0.8 # 透明度取值0-1
 
@@ -60,7 +60,7 @@ logo_content = "Vision & Security Laboratory"
 
 [[item]]
   title = "Welcome to **VSLab**"
-  content = "VOT2018 realtime track winner (SiamRPN) [learn more](/project/visualperception)"
+  content = "VOT2018 realtime track winner (SiamRPN) &nbsp;[**learn more**](/project/visualperception)"
   align = "left"  # Choose `center`, `left`, or `right`.
   opacity = 0.8
 
@@ -70,7 +70,7 @@ logo_content = "Vision & Security Laboratory"
 
 [[item]]
   title = "Welcome to **VSLab**"
-  content = "VATEX Captioning Challenge 2019 Chinese and English tracks winner [learn more](/project/videounderstanding)"
+  content = "VATEX Captioning Challenge 2019 Chinese and English tracks winner &nbsp;[**learn more**](/project/videounderstanding)"
   align = "left"  # Choose `center`, `left`, or `right`.
   opacity = 0.8
 
