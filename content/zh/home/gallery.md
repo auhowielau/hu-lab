@@ -70,7 +70,7 @@ logo_content = "Vision & Security Laboratory"
 
 [[item]]
   title = "Welcome to **VSLab**"
-  content = "ICCV2019 VATEX视频描述挑战赛中/英文双赛道冠军 &nbsp;[**了解更多**](/zh/project/videounderstanding)"
+  content = "ICCV2019 VATEX视频描述挑战赛中/英文双赛道冠军 &nbsp;[**了解更多**](/zh/subpage/videocaption)"
   align = "left"  # Choose `center`, `left`, or `right`.
   opacity = 0.8
 
