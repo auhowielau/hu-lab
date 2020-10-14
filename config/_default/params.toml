@@ -28,7 +28,7 @@ font = ""
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
 font_size = "S"
 
-i_am_a_sponsor = true
+i_am_a_sponsor = false
 
 ############################
 ## Basic Info
