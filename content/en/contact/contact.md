@@ -19,8 +19,9 @@ title = "Contact us"
   color = "white"
 
 +++
-## Vision & Security Laboratory  
+<!-- ## Vision & Security Laboratory  
 Postcode: 100190  
-Email:    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bli@nlpr.ia.ac.cn  
-Phone:    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(0086)010-82544644  
-Address:  &nbsp;&nbsp;15th Floor, Intelligent Building, Number 95, Zhongguancun East Road, Haidian District, Beijing, China.
+Email:    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;liuhaowei2019@nlpr.ia.ac.cn   
+Address:  &nbsp;&nbsp;15th Floor, Intelligent Building, Number 95, Zhongguancun East Road,  
+&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;Haidian District, Beijing, China. -->
+<img src="contact.png" width=100%>
