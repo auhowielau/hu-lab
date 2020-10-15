@@ -15,8 +15,8 @@ role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
-- name: NLPR, CASIA
-  url: "http://www.ia.ac.cn/"
+- name: Homepage
+  url: "http://www.ia.cas.cn/sourcedb_ia_cas/cn/iaexpert/202006/t20200601_5600611.html"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 

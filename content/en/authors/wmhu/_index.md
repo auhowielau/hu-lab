@@ -15,8 +15,8 @@ role: Professor
 
 # Organizations/Affiliations
 organizations:
-- name: NLPR, CASIA
-  url: "http://www.ia.ac.cn/"
+- name: Homepage
+  url: "http://people.ucas.ac.cn/~huweiming?language=en"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 

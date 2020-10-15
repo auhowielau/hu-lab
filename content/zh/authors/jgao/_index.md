@@ -15,8 +15,8 @@ role: 副研究员
 
 # Organizations/Affiliations
 organizations:
-- name: NLPR, CASIA
-  url: "http://www.ia.ac.cn/"
+- name: 个人主页
+  url: "http://people.ucas.edu.cn/~jgao"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -65,7 +65,7 @@ bio:
 email: ""
 
 # Link to the homepage of the author
-link: "http://www.nlpr.ia.ac.cn/users/gaojin/"  # set link: "/author/user-name/" for the author without homepage
+link: "http://people.ucas.edu.cn/~jgao"  # set link: "/author/user-name/" for the author without homepage
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.

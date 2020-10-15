@@ -15,8 +15,8 @@ role: 研究员
 
 # Organizations/Affiliations
 organizations:
-- name: NLPR, CASIA
-  url: "http://www.ia.ac.cn/"
+- name: 个人主页
+  url: "http://www.ia.cas.cn/sourcedb_ia_cas/cn/iaexpert/201707/t20170715_4833365.html"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 

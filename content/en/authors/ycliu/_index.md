@@ -15,8 +15,8 @@ role: Research Assistant
 
 # Organizations/Affiliations
 organizations:
-- name: NLPR, CASIA
-  url: "http://www.ia.ac.cn/"
+- name: Homepage
+  url: "https://yochengliu.github.io/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 

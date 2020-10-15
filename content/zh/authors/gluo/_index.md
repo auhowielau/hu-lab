@@ -15,8 +15,8 @@ role: 副研究员
 
 # Organizations/Affiliations
 organizations:
-- name: NLPR, CASIA
-  url: "http://www.ia.ac.cn/"
+- name: 个人主页
+  url: "http://people.ucas.edu.cn/~luoguan?language=en"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 

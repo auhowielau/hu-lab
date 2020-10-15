@@ -15,8 +15,8 @@ role: 助理研究员
 
 # Organizations/Affiliations
 organizations:
-- name: NLPR, CASIA
-  url: "http://www.ia.ac.cn/"
+- name: 个人主页
+  url: "https://yochengliu.github.io/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 

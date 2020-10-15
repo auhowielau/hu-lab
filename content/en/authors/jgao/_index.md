@@ -15,8 +15,8 @@ role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
-- name: NLPR, CASIA
-  url: "http://www.ia.ac.cn/"
+- name: Homepage
+  url: "http://www.nlpr.ia.ac.cn/users/gaojin/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
