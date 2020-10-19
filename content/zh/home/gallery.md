@@ -30,7 +30,7 @@ logo_content = "Vision & Security Laboratory"
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "Welcome to **VSLab**"
-  content = "视频内容安全研究组围绕核心主题“AI + 安全”开展具有高学术价值的基础理论和创新方法研究 &nbsp;[**了解更多**](/zh/projects/)"
+  content = "视频内容安全研究组围绕核心主题“AI + 安全”开展具有高学术价值的基础理论和创新方法研究 &nbsp;[**了解更多**](/projects/)"
   align = "left"  # Choose `center`, `left`, or `right`.
   opacity = 0.8
 
@@ -60,7 +60,17 @@ logo_content = "Vision & Security Laboratory"
 
 [[item]]
   title = "Welcome to **VSLab**"
-  content = "VOT2018实时跟踪竞赛冠军 &nbsp;[**了解更多**](/zh/project/visualperception)"
+  content = "中国模式识别与计算机视觉大会PRCV 2020最佳论文 &nbsp;[**了解更多**](/project/visualperception)"
+  align = "left"  # Choose `center`, `left`, or `right`.
+  opacity = 0.8
+
+  # overlay_color = "#333"  # An HTML color value.
+  overlay_img = "PRCV.png"  # Image path relative to your `static/media/` folder.
+  overlay_filter = 0  # Darken the image. Value in range 0-1.
+
+[[item]]
+  title = "Welcome to **VSLab**"
+  content = "VOT2018实时跟踪竞赛冠军 &nbsp;[**了解更多**](/project/visualperception)"
   align = "left"  # Choose `center`, `left`, or `right`.
   opacity = 0.8
 
@@ -70,7 +80,7 @@ logo_content = "Vision & Security Laboratory"
 
 [[item]]
   title = "Welcome to **VSLab**"
-  content = "ICCV2019 VATEX视频描述挑战赛中/英文双赛道冠军 &nbsp;[**了解更多**](/zh/subpage/videocaption)"
+  content = "ICCV2019 VATEX视频描述挑战赛中/英文双赛道冠军 &nbsp;[**了解更多**](/subpage/videocaption)"
   align = "left"  # Choose `center`, `left`, or `right`.
   opacity = 0.8
 
@@ -80,7 +90,7 @@ logo_content = "Vision & Security Laboratory"
 
 [[item]]
   title = "Welcome to **VSLab**"
-  content = "网络多媒体大数据风控平台 &nbsp;[**了解更多**](/zh/project/contentsecurity)"
+  content = "网络多媒体大数据风控平台 &nbsp;[**了解更多**](/project/contentsecurity)"
   align = "left"  # Choose `center`, `left`, or `right`.
   opacity = 0.8
 

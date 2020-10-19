@@ -30,7 +30,7 @@ logo_content = "Vision & Security Laboratory"
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "Welcome to **VSLab**"
-  content = "VSLab has carried out much high-quality research of fundamental theories and innovative methods around 'AI + Security' &nbsp;[**learn more**](/projects/)"
+  content = "VSLab has carried out much high-quality research of fundamental theories and innovative methods around 'AI + Security' &nbsp;[**learn more**](/en/projects/)"
   align = "left"  # Choose `center`, `left`, or `right`.
   opacity = 0.8
 
@@ -60,7 +60,7 @@ logo_content = "Vision & Security Laboratory"
 
 [[item]]
   title = "Welcome to **VSLab**"
-  content = "VOT2018 realtime track winner &nbsp;[**learn more**](/project/visualperception)"
+  content = "VOT2018 realtime track winner &nbsp;[**learn more**](/en/project/visualperception)"
   align = "left"  # Choose `center`, `left`, or `right`.
   opacity = 0.8
 
@@ -70,7 +70,7 @@ logo_content = "Vision & Security Laboratory"
 
 [[item]]
   title = "Welcome to **VSLab**"
-  content = "VATEX Captioning Challenge 2019 Chinese and English tracks winner &nbsp;[**learn more**](/subpage/videocaption)"
+  content = "VATEX Captioning Challenge 2019 Chinese and English tracks winner &nbsp;[**learn more**](/en/subpage/videocaption)"
   align = "left"  # Choose `center`, `left`, or `right`.
   opacity = 0.8
 

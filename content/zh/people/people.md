@@ -19,7 +19,7 @@ subtitle = ""
                  "博士后",
                  "博士研究生",
                  "硕士研究生",
-                 "已毕业学生"]
+                 "毕业生"]
 
 [design]
   # Show user's social networking links? (true/false)
