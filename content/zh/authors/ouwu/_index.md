@@ -1,7 +1,7 @@
 ---
 # Display name
 title: 吴偶
-weight: 70
+weight: 60
 
 # Username (this should match the folder name)
 authors:

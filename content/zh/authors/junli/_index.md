@@ -1,7 +1,7 @@
 ---
 # Display name
 title: 李峻
-weight: 190
+weight: 110
 
 # Username (this should match the folder name)
 authors:

@@ -1,7 +1,7 @@
 ---
 # Display name
 title: 张笑钦
-weight: 90
+weight: 40
 
 # Username (this should match the folder name)
 authors:

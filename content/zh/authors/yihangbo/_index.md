@@ -1,7 +1,7 @@
 ---
 # Display name
 title: 薄一航
-weight: 20
+weight: 10
 
 # Username (this should match the folder name)
 authors:

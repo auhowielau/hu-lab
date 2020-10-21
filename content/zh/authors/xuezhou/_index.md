@@ -1,7 +1,7 @@
 ---
 # Display name
 title: 周雪
-weight: 100
+weight: 90
 
 # Username (this should match the folder name)
 authors:

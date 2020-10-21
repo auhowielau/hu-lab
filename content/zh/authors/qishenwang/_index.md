@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 游强
-weight: 114
+title: 王麒深
+weight: 180
 
 # Username (this should match the folder name)
 authors:
-- qiangyou
+- qishenwang
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 博士阶段</br>中科院自动化所
+role: 实习</br>燕山大学
 
 # Organizations/Affiliations
 organizations:
@@ -69,5 +69,5 @@ link: ""  # set link: "/author/user-name/" for the author without homepage
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups: ["毕业生"]
+user_groups: ["访问交流"]
 ---

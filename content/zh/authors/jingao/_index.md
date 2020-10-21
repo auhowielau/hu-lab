@@ -1,7 +1,7 @@
 ---
 # Display name
 title: 高晋
-weight: 30
+weight: 80
 
 # Username (this should match the folder name)
 authors:

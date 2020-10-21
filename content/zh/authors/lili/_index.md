@@ -1,7 +1,7 @@
 ---
 # Display name
 title: 李莉
-weight: 230
+weight: 116
 
 # Username (this should match the folder name)
 authors:

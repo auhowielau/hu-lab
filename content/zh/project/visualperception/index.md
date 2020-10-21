@@ -38,7 +38,7 @@ slides:
 - 2019年视频目标跟踪竞赛([VOT2019](https://www.votchallenge.net/vot2019/))RGBT通道亚军
 - 2020年视频目标跟踪竞赛([VOT2020](https://www.votchallenge.net/vot2020/))实时通道和主通道亚军
 - 2020年视频目标跟踪竞赛([VOT2020](https://www.votchallenge.net/vot2020/))RGBT通道实际冠军(由举办方重新测试VOT2019提交的跟踪器)
-- 中国模式识别与计算机视觉大会PRCV 2020 **最佳论文奖**
+- 中国模式识别与计算机视觉大会PRCV 2020[**最佳论文奖**](/publication/zhou-2020-anchor/)
 ## 分享
 - 王强: [SiamMask](https://www.bilibili.com/video/BV1Kt411u7CT?from=search&seid=14223038225505545546)
 - 张志鹏: [Ocean](https://www.bilibili.com/video/BV1354y1e7wU?from=search&seid=10926703456041213142)

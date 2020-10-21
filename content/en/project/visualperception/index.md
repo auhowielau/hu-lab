@@ -38,7 +38,7 @@ Object detection, segmentation, tracking are all fundamental tasks in computer v
 - Visual Object Tracking competition 2019 ([VOT2019](https://www.votchallenge.net/vot2019/)) RGBT track runner-up (SiamDW-T).
 - Visual Object Tracking competition 2020 ([VOT2020](https://www.votchallenge.net/vot2020/)) realtime and base track runner-ups (OcenaPlus).
 - Visual Object Tracking competition 2020 ([VOT2020](https://www.votchallenge.net/vot2020/)) RGBT track winner (SiamDW-T re-submitted by the committee).
-- 3rd Chinese Conference on Pattern Recognition and Computer Vision ([PRCV 2020](http://www.prcv.cn/)) best paper.
+- 3rd Chinese Conference on Pattern Recognition and Computer Vision ([PRCV 2020](http://www.prcv.cn/)) [best paper](/en/publication/zhou-2020-anchor/).
 ## Talks
 - Qiang Wang: [SiamMask](https://www.bilibili.com/video/BV1Kt411u7CT?from=search&seid=14223038225505545546)
 - Zhipeng Zhang: [Ocean](https://www.bilibili.com/video/BV1354y1e7wU?from=search&seid=10926703456041213142)

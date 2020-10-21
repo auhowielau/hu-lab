@@ -20,7 +20,7 @@ location = "right"
 +++
 
 ## **新闻**
-- **10/2020:** 团队成员周宗伟等获中国模式识别与计算机视觉大会PRCV 2020 **<font color=#FF4500>最佳论文奖</font>**.
+- **10/2020:** 团队成员周宗伟等获中国模式识别与计算机视觉大会PRCV 2020[最佳论文奖](/publication/zhou-2020-anchor/).
 - **08/2020:** 团队2篇论文(目标跟踪、显著性预测)被[ECCV 2020](https://eccv2020.eu/)接收.
 - **06/2020:** 团队2篇论文(目标跟踪、视频描述)被[CVPR 2020](http://cvpr2020.thecvf.com/)接收.
 - **12/2019:** 团队本年度1篇论文被[IJCV](https://www.springer.com/journal/11263)接收，1篇论文被[TIP](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83)接收，1篇论文被[PR](https://www.journals.elsevier.com/pattern-recognition)接收.

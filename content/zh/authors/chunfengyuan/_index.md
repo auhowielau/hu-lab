@@ -1,7 +1,7 @@
 ---
 # Display name
 title: 原春锋
-weight: 40
+weight: 70
 
 # Username (this should match the folder name)
 authors:

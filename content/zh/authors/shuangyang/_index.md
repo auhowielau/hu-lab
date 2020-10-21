@@ -1,7 +1,7 @@
 ---
 # Display name
 title: 杨双
-weight: 120
+weight: 100
 
 # Username (this should match the folder name)
 authors:
