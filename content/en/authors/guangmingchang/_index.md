@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: M.Sc.</br>
+role: M.Sc.</br>Startup
 
 # Organizations/Affiliations
 organizations:
