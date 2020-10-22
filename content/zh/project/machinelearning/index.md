@@ -104,3 +104,17 @@ slides:
     </div>
   </div>
 </html>
+
+<html>
+  <div class="row align-items-flex-start">
+    <div class="col-12 col-md-4 order-first">
+      <img src="dual_sticky.png" width=100%>
+    </div>
+    <div class="col-12 col-md-8">
+      <h4 class="mb-0 mt-4">
+        <a href="/publication/hu-2018-dual">Dual sticky hierarchical Dirichlet process hidden Markov model and its application to natural language description of motions [TPAMI2018]</a>
+      </h4>
+      本文提出了一种新的非参数贝叶斯模型，称为双重粘性分层Dirichlet过程隐马尔可夫模型（HDP-HMM），用于从一系列时间序列数据（例如轨迹）中进行挖掘。HMM对与运动模式相对应的每个时间序列数据簇进行建模。我们的模型假设一组HMM具有相同的状态集（类似于用于文档处理的主题模型的主题），但是具有唯一的过渡分布。 HMM的数量和主题的数量都是自动确定的。粘性先验避免了冗余状态，使我们的HDP-HMM更有效地为多模式观测建模。对于运动轨迹建模的应用，主题对应于运动活动。学到的主题被聚集成原子活动，并为其分配谓词。我们提出一种贝叶斯推理方法，将给定的轨迹分解为一系列原子活动。场景中的源和汇是通过对轨迹的端点（起点和终点）进行聚类来学习的。使用轨迹中的点学习语义运动区域。将学习到的源和接收器，学习到的语义运动区域和学习到的原子活动序列组合在一起时，可以用自然语言尽可能自动地描述由轨迹表示的动作。我们的双粘性HDP-HMM的有效性在几个轨迹数据集上得到了验证。从交通场景中提取的车辆轨迹证明了自然语言描述对运动的有效性。
+    </div>
+  </div>
+</html>
