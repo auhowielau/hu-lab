@@ -96,6 +96,20 @@ It is challenging to automatically recognize the harmful content, as this requir
 <html>
   <div class="row align-items-flex-start">
     <div class="col-12 col-md-4 order-first">
+      <img src="anomaly.png" width=100%>
+    </div>
+    <div class="col-12 col-md-8">
+      <h4 class="mb-0 mt-4">
+        <a href="/en/publication/hu-2018-anomaly">Anomaly detection using local kernel density estimation and context-based regression [TKDE2018]</a>
+      </h4>
+        Current local density-based anomaly detection methods are limited in that the local density estimation and the neighborhood density estimation are not accurate enough for complex and large databases, and the detection performance depends on the size parameter of the neighborhood. In this paper, we propose a new kernel function to estimate samples’ local densities and propose a weighted neighborhood density estimation to increase the robustness to changes in the neighborhood size. We further propose a local kernel regression estimator and a hierarchical strategy for combining information from the multiple scale neighborhoods to refine anomaly factors of samples. We apply our general anomaly detection method to image saliency detection by regarding salient pixels in objects as anomalies to the background regions. Local density estimation in the visual feature space and kernel-based saliency score propagation in the image enable the assignment of similar saliency values to homogenous object regions.
+    </div>
+  </div>
+</html>
+
+<html>
+  <div class="row align-items-flex-start">
+    <div class="col-12 col-md-4 order-first">
       <img src="multimodal.png" width=100%>
     </div>
     <div class="col-12 col-md-8">

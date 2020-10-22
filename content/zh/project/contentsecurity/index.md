@@ -94,6 +94,20 @@ slides:
 <html>
   <div class="row align-items-flex-start">
     <div class="col-12 col-md-4 order-first">
+      <img src="anomaly.png" width=100%>
+    </div>
+    <div class="col-12 col-md-8">
+      <h4 class="mb-0 mt-4">
+        <a href="/publication/hu-2018-anomaly">Anomaly detection using local kernel density estimation and context-based regression [TKDE2018]</a>
+      </h4>
+        当前基于局部密度的异常检测方法的局限性在于，对于大型复杂数据集，局部密度估计和邻域密度估计不够准确，并且检测性能取决于邻域的大小参数。在本文中，我们提出了一种新的核函数来估计样本的局部密度，并提出了加权邻域密度估计以增加对邻域大小变化的鲁棒性。我们进一步提出了一种局部核回归估计器和一种分层策略，用于组合来自多个尺度邻域的信息以细化样本的异常因子。通过将对象中的显著像素视为背景区域的异常，我们将一般异常检测方法应用于图像显著性检测。视觉特征空间中的局部密度估计和图像中基于核的显著性分数传播使得能够将相似的显著性值分配给同质的对象区域。在几个基准数据集上的实验结果表明，我们的异常检测方法总体上优于几种最新的异常检测方法。通过与几种最新的显著性检测方法进行比较，验证了我们图像显著性检测方法的有效性。
+    </div>
+  </div>
+</html>
+
+<html>
+  <div class="row align-items-flex-start">
+    <div class="col-12 col-md-4 order-first">
       <img src="multimodal.png" width=100%>
     </div>
     <div class="col-12 col-md-8">
