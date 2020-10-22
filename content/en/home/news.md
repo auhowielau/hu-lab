@@ -20,6 +20,7 @@ location = "right"
 +++
 
 ## **News**
+- **10/2020:** 3rd Chinese Conference on Pattern Recognition and Computer Vision (PRCV 2020) [best paper award](/en/publication/zhou-2020-anchor/).
 - **08/2020:** Two papers on visual tracking and saliency prediction are accepted by [ECCV 2020](https://eccv2020.eu/).
 - **06/2020:** Two papers on visual tracking and video captioning are accepted by [CVPR 2020](http://cvpr2020.thecvf.com/).
 - **12/2019:** This year we have one paper accepted by [IJCV](https://www.springer.com/journal/11263), one paper accepted by [TIP](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83) and one paper accepted by [PR](https://www.journals.elsevier.com/pattern-recognition).
