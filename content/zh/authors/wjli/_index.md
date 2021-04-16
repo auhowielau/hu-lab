@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 助理研究员
+role: 副研究员
 
 # Organizations/Affiliations
 organizations:
